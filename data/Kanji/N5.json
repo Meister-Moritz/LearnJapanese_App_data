@@ -1,0 +1,985 @@
+﻿{
+  "section": "N5",
+  "subsectionList": [
+    {
+      "subsection": "N5_1",
+      "kanjiList": [
+        {
+          "kanji": "\u65E5",
+          "translation": "day, sun, Japan, counter for days",
+          "onyomi": {
+            "kana": "\u30CB\u30C1, \u30B8\u30C4",
+            "romaji": "nichi, jitsu"
+          },
+          "kunyomi": {
+            "kana": "-hi, -bi, -ka",
+            "romaji": "\u3072, -\u3073, -\u304B"
+          }
+        },
+        {
+          "kanji": "\u4E00",
+          "translation": "one",
+          "onyomi": {
+            "kana": "\u30A4\u30C1",
+            "romaji": "ichi"
+          },
+          "kunyomi": {
+            "kana": "hito(tsu)",
+            "romaji": "\u3072\u3068(\u3064)"
+          }
+        },
+        {
+          "kanji": "\u56FD",
+          "translation": "country",
+          "onyomi": {
+            "kana": "\u30B3\u30AF",
+            "romaji": "koku"
+          },
+          "kunyomi": {
+            "kana": "kuni",
+            "romaji": "\u304F\u306B"
+          }
+        },
+        {
+          "kanji": "\u4EBA",
+          "translation": "person",
+          "onyomi": {
+            "kana": "\u30B8\u30F3\u3001 \u30CB\u30F3",
+            "romaji": "jin, nin"
+          },
+          "kunyomi": {
+            "kana": "hito",
+            "romaji": "\u3072\u3068"
+          }
+        },
+        {
+          "kanji": "\u5E74",
+          "translation": "year, counter for years",
+          "onyomi": {
+            "kana": "\u30CD\u30F3",
+            "romaji": "nen"
+          },
+          "kunyomi": {
+            "kana": "toshi",
+            "romaji": "\u3068\u3057"
+          }
+        },
+        {
+          "kanji": "\u5927",
+          "translation": "large, big",
+          "onyomi": {
+            "kana": "\u30C0\u30A4\u3001 \u30BF\u30A4",
+            "romaji": "dai, tai"
+          },
+          "kunyomi": {
+            "kana": "oo(kii)",
+            "romaji": "\u304A\u304A(\u304D\u3044)"
+          }
+        },
+        {
+          "kanji": "\u5341",
+          "translation": "ten, 10",
+          "onyomi": {
+            "kana": "\u30B8\u30E5\u30A6",
+            "romaji": "juu"
+          },
+          "kunyomi": {
+            "kana": "tou, to",
+            "romaji": "\u3068\u304A\u3001 \u3068"
+          }
+        },
+        {
+          "kanji": "\u4E8C",
+          "translation": "two, 2",
+          "onyomi": {
+            "kana": "\u30CB\u3001 \u30B8",
+            "romaji": "ni, ji"
+          },
+          "kunyomi": {
+            "kana": "futa(tsu)",
+            "romaji": "\u3075\u305F(\u3064)"
+          }
+        },
+        {
+          "kanji": "\u672C",
+          "translation": "book, present, true, counter for long cylindrical things",
+          "onyomi": {
+            "kana": "\u30DB\u30F3",
+            "romaji": "hon"
+          },
+          "kunyomi": {
+            "kana": "moto",
+            "romaji": "\u3082\u3068"
+          }
+        },
+        {
+          "kanji": "\u4E2D",
+          "translation": "in, inside, middle, mean, center",
+          "onyomi": {
+            "kana": "\u30C1\u30E5\u30A6",
+            "romaji": "chuu"
+          },
+          "kunyomi": {
+            "kana": "naka, uchi, ata(ru)",
+            "romaji": "\u306A\u304B\u3001 \u3046\u3061\u3001 \u3042\u305F(\u308B)"
+          }
+        },
+        {
+          "kanji": "\u9577",
+          "translation": "long, leader, superior, senior",
+          "onyomi": {
+            "kana": "\u30C1\u30E7\u30A6",
+            "romaji": "chou"
+          },
+          "kunyomi": {
+            "kana": "naga(i), osa",
+            "romaji": "\u306A\u304C(\u3044)\u3001 \u304A\u3055"
+          }
+        },
+        {
+          "kanji": "\u51FA",
+          "translation": "exit, leave, go out",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30C4\u3001 \u30B9\u30A4",
+            "romaji": "shutsu, sui"
+          },
+          "kunyomi": {
+            "kana": "de(ru), da(su), i(deru)",
+            "romaji": "\u3067(\u308B)\u3001 \u3060(\u3059)\u3001 \u3044(\u3067\u308B)"
+          }
+        },
+        {
+          "kanji": "\u4E09",
+          "translation": "three, 3",
+          "onyomi": {
+            "kana": "\u30B5\u30F3",
+            "romaji": "san"
+          },
+          "kunyomi": {
+            "kana": "mi(tsu)",
+            "romaji": "\u307F(\u3064)"
+          }
+        },
+        {
+          "kanji": "\u6642",
+          "translation": "time, hour",
+          "onyomi": {
+            "kana": "\u30B8",
+            "romaji": "ji"
+          },
+          "kunyomi": {
+            "kana": "toki, doki",
+            "romaji": "\u3068\u304D\u3001 -\u3069\u304D"
+          }
+        },
+        {
+          "kanji": "\u884C",
+          "translation": "going, journey, carry out, line, row",
+          "onyomi": {
+            "kana": "\u30B3\u30A6\u3001 \u30AE\u30E7\u30A6\u3001 \u30A2\u30F3",
+            "romaji": "kou, gyou, an"
+          },
+          "kunyomi": {
+            "kana": "i(ku), yu(ku), okona(u)",
+            "romaji": "\u3044(\u304F)\u3001 \u3086(\u304F)\u3001 \u304A\u3053\u306A(\u3046)"
+          }
+        },
+        {
+          "kanji": "\u898B",
+          "translation": "see, hopes, chances, idea, opinion, look at, visible",
+          "onyomi": {
+            "kana": "\u30B1\u30F3",
+            "romaji": "ken"
+          },
+          "kunyomi": {
+            "kana": "mi(ru), mi(seru)",
+            "romaji": "\u307F(\u308B)\u3001 \u307F(\u305B\u308B)"
+          }
+        },
+        {
+          "kanji": "\u6708",
+          "translation": "month, moon",
+          "onyomi": {
+            "kana": "\u30B2\u30C4\u3001 \u30AC\u30C4",
+            "romaji": "getsu, gatsu"
+          },
+          "kunyomi": {
+            "kana": "tsuki",
+            "romaji": "\u3064\u304D"
+          }
+        },
+        {
+          "kanji": "\u5206",
+          "translation": "part, minute of time, understand",
+          "onyomi": {
+            "kana": "\u30D6\u30F3\u3001 \u30D5\u30F3\u3001 \u30D6",
+            "romaji": "bun, fun, bu"
+          },
+          "kunyomi": {
+            "kana": "wa(keru)",
+            "romaji": "\u308F(\u3051\u308B)"
+          }
+        },
+        {
+          "kanji": "\u5F8C",
+          "translation": "behind, back, later",
+          "onyomi": {
+            "kana": "\u30B4\u3001 \u30B3\u30A6",
+            "romaji": "go, kou"
+          },
+          "kunyomi": {
+            "kana": "nochi, ushi(ro), ato",
+            "romaji": "\u306E\u3061\u3001 \u3046\u3057(\u308D)\u3001 \u3042\u3068"
+          }
+        },
+        {
+          "kanji": "\u524D",
+          "translation": "in front, before",
+          "onyomi": {
+            "kana": "\u30BC\u30F3",
+            "romaji": "zen"
+          },
+          "kunyomi": {
+            "kana": "mae",
+            "romaji": "\u307E\u3048"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N5_2",
+      "kanjiList": [
+        {
+          "kanji": "\u751F",
+          "translation": "life, genuine, birth",
+          "onyomi": {
+            "kana": "\u30BB\u30A4\u3001 \u30B7\u30E7\u30A6",
+            "romaji": "sei, shou"
+          },
+          "kunyomi": {
+            "kana": "i(kiru), u(mu), o(u), ha(eru), nama",
+            "romaji": "\u3044(\u304D\u308B)\u3001 \u3046(\u3080)\u3001 \u304A(\u3046)\u3001 \u306F(\u3048\u308B)\u3001 \u306A\u307E"
+          }
+        },
+        {
+          "kanji": "\u4E94",
+          "translation": "five, 5",
+          "onyomi": {
+            "kana": "\u30B4",
+            "romaji": "go"
+          },
+          "kunyomi": {
+            "kana": "itsu(tsu)",
+            "romaji": "\u3044\u3064(\u3064)"
+          }
+        },
+        {
+          "kanji": "\u9593",
+          "translation": "interval, space",
+          "onyomi": {
+            "kana": "\u30AB\u30F3\u3001 \u30B1\u30F3",
+            "romaji": "kan, ken"
+          },
+          "kunyomi": {
+            "kana": "aida, ma, ai",
+            "romaji": "\u3042\u3044\u3060\u3001 \u307E\u3001 \u3042\u3044"
+          }
+        },
+        {
+          "kanji": "\u4E0A",
+          "translation": "above, up",
+          "onyomi": {
+            "kana": "\u30B8\u30E7\u30A6\u3001 \u30B7\u30E7\u30A6\u3001 \u30B7\u30E3\u30F3",
+            "romaji": "jou, shou, shan"
+          },
+          "kunyomi": {
+            "kana": "ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)",
+            "romaji": "\u3046\u3048\u3001 \u3046\u308F-\u3001 \u304B\u307F\u3001 \u3042(\u3052\u308B)\u3001 \u306E\u307C(\u308B)\u3001 \u305F\u3066\u307E\u3064(\u308B)"
+          }
+        },
+        {
+          "kanji": "\u6771",
+          "translation": "east",
+          "onyomi": {
+            "kana": "\u30C8\u30A6",
+            "romaji": "tou"
+          },
+          "kunyomi": {
+            "kana": "higashi",
+            "romaji": "\u3072\u304C\u3057"
+          }
+        },
+        {
+          "kanji": "\u56DB",
+          "translation": "four, 4",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "yo(tsu), yon",
+            "romaji": "\u3088(\u3064)\u3001 \u3088\u3093"
+          }
+        },
+        {
+          "kanji": "\u4ECA",
+          "translation": "\u0022now",
+          "onyomi": {
+            "kana": "\u30B3\u30F3\u3001 \u30AD\u30F3",
+            "romaji": "kon, kin"
+          },
+          "kunyomi": {
+            "kana": "ima",
+            "romaji": "\u3044\u307E"
+          }
+        },
+        {
+          "kanji": "\u91D1",
+          "translation": "gold",
+          "onyomi": {
+            "kana": "\u30AD\u30F3\u3001 \u30B3\u30F3\u3001 \u30B4\u30F3",
+            "romaji": "kin, kon, gon"
+          },
+          "kunyomi": {
+            "kana": "kane, kana, gane",
+            "romaji": "\u304B\u306D\u3001 \u304B\u306A-\u3001 -\u304C\u306D"
+          }
+        },
+        {
+          "kanji": "\u4E5D",
+          "translation": "nine, 9",
+          "onyomi": {
+            "kana": "\u30AD\u30E5\u30A6\u3001 \u30AF",
+            "romaji": "kyuu, ku"
+          },
+          "kunyomi": {
+            "kana": "kokono(tsu)",
+            "romaji": "\u3053\u3053\u306E(\u3064)"
+          }
+        },
+        {
+          "kanji": "\u5165",
+          "translation": "enter, insert",
+          "onyomi": {
+            "kana": "\u30CB\u30E5\u30A6",
+            "romaji": "nyuu"
+          },
+          "kunyomi": {
+            "kana": "i(ru), hai(ru)",
+            "romaji": "\u3044(\u308B)\u3001\u306F\u3044(\u308B)"
+          }
+        },
+        {
+          "kanji": "\u5B66",
+          "translation": "study, learning, science",
+          "onyomi": {
+            "kana": "\u30AC\u30AF",
+            "romaji": "gaku"
+          },
+          "kunyomi": {
+            "kana": "mana(bu)",
+            "romaji": "\u307E\u306A(\u3076)"
+          }
+        },
+        {
+          "kanji": "\u9AD8",
+          "translation": "tall, high, expensive",
+          "onyomi": {
+            "kana": "\u30B3\u30A6",
+            "romaji": "kou"
+          },
+          "kunyomi": {
+            "kana": "taka(i)",
+            "romaji": "\u305F\u304B(\u3044)"
+          }
+        },
+        {
+          "kanji": "\u5186",
+          "translation": "circle, yen, round",
+          "onyomi": {
+            "kana": "\u30A8\u30F3",
+            "romaji": "en"
+          },
+          "kunyomi": {
+            "kana": "maru(i)",
+            "romaji": "\u307E\u308B(\u3044)"
+          }
+        },
+        {
+          "kanji": "\u5B50",
+          "translation": "child",
+          "onyomi": {
+            "kana": "\u30B7\u3001 \u30B9\u3001 \u30C4",
+            "romaji": "shi, su, tsu"
+          },
+          "kunyomi": {
+            "kana": "ko, ne",
+            "romaji": "\u3053\u3001 \u306D"
+          }
+        },
+        {
+          "kanji": "\u5916",
+          "translation": "outside",
+          "onyomi": {
+            "kana": "\u30AC\u30A4\u3001 \u30B2",
+            "romaji": "gai, ge"
+          },
+          "kunyomi": {
+            "kana": "soto, hoka, hazu-, to-",
+            "romaji": "\u305D\u3068\u3001 \u307B\u304B\u3001 \u306F\u305A(\u3059)\u3001 \u3068-"
+          }
+        },
+        {
+          "kanji": "\u516B",
+          "translation": "eight, 8",
+          "onyomi": {
+            "kana": "\u30CF\u30C1",
+            "romaji": "hachi"
+          },
+          "kunyomi": {
+            "kana": "ya(tsu), you",
+            "romaji": "\u3084(\u3064)\u3001 \u3088\u3046"
+          }
+        },
+        {
+          "kanji": "\u516D",
+          "translation": "six, 6",
+          "onyomi": {
+            "kana": "\u30ED\u30AF",
+            "romaji": "roku"
+          },
+          "kunyomi": {
+            "kana": "mu(tsu), mui",
+            "romaji": "\u3080(\u3064)\u3001 \u3080\u3044"
+          }
+        },
+        {
+          "kanji": "\u4E0B",
+          "translation": "below, down, descend, give, low, inferior",
+          "onyomi": {
+            "kana": "\u30AB\u3001 \u30B2",
+            "romaji": "ka, ge"
+          },
+          "kunyomi": {
+            "kana": "shita, shimo, moto, sa(geru), kuda(ru), o(rosu)",
+            "romaji": "\u3057\u305F\u3001 \u3057\u3082\u3001 \u3082\u3068\u3001 \u3055(\u3052\u308B)\u3001 \u304F\u3060(\u308B)\u3001 \u304A(\u308D\u3059)"
+          }
+        },
+        {
+          "kanji": "\u6765",
+          "translation": "come, due, next, cause, become",
+          "onyomi": {
+            "kana": "\u30E9\u30A4\u3001 \u30BF\u30A4",
+            "romaji": "rai, tai"
+          },
+          "kunyomi": {
+            "kana": "kuru, kitaru, ki, ko",
+            "romaji": "\u304F.\u308B\u3001 \u304D\u305F.\u308B\u3001 \u304D\u3001 \u3053"
+          }
+        },
+        {
+          "kanji": "\u6C17",
+          "translation": "spirit, mind, air, atmosphere, mood",
+          "onyomi": {
+            "kana": "\u30AD\u3001 \u30B1",
+            "romaji": "ki, ke"
+          },
+          "kunyomi": {
+            "kana": "iki",
+            "romaji": "\u3044\u304D"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N5_3",
+      "kanjiList": [
+        {
+          "kanji": "\u5C0F",
+          "translation": "little, small",
+          "onyomi": {
+            "kana": "\u30B7\u30E7\u30A6",
+            "romaji": "shou"
+          },
+          "kunyomi": {
+            "kana": "chii(sai), ko-, o-, sa-",
+            "romaji": "\u3061\u3044(\u3055\u3044)\u3001 \u3053-\u3001 \u304A-\u3001 \u3055-"
+          }
+        },
+        {
+          "kanji": "\u4E03",
+          "translation": "seven, 7",
+          "onyomi": {
+            "kana": "\u30B7\u30C1",
+            "romaji": "shichi"
+          },
+          "kunyomi": {
+            "kana": "nana(tsu), nano",
+            "romaji": "\u306A\u306A(\u3064)\u3001 \u306A\u306E"
+          }
+        },
+        {
+          "kanji": "\u5C71",
+          "translation": "mountain",
+          "onyomi": {
+            "kana": "\u30B5\u30F3\u3001 \u30BB\u30F3",
+            "romaji": "san, sen"
+          },
+          "kunyomi": {
+            "kana": "yama",
+            "romaji": "\u3084\u307E"
+          }
+        },
+        {
+          "kanji": "\u8A71",
+          "translation": "tale, talk",
+          "onyomi": {
+            "kana": "\u30EF",
+            "romaji": "wa"
+          },
+          "kunyomi": {
+            "kana": "hana(su), hanashi",
+            "romaji": "\u306F\u306A(\u3059)\u3001 \u306F\u306A\u3057"
+          }
+        },
+        {
+          "kanji": "\u5973",
+          "translation": "woman, female",
+          "onyomi": {
+            "kana": "\u30B8\u30E7",
+            "romaji": "jo"
+          },
+          "kunyomi": {
+            "kana": "onnna, me",
+            "romaji": "\u304A\u3093\u306A\u3001 \u3081"
+          }
+        },
+        {
+          "kanji": "\u5317",
+          "translation": "north",
+          "onyomi": {
+            "kana": "\u30DB\u30AF",
+            "romaji": "hoku"
+          },
+          "kunyomi": {
+            "kana": "kita",
+            "romaji": "\u304D\u305F"
+          }
+        },
+        {
+          "kanji": "\u5348",
+          "translation": "noon, sign of the horse",
+          "onyomi": {
+            "kana": "\u30B4",
+            "romaji": "go"
+          },
+          "kunyomi": {
+            "kana": "uma",
+            "romaji": "\u3046\u307E"
+          }
+        },
+        {
+          "kanji": "\u767E",
+          "translation": "hundred",
+          "onyomi": {
+            "kana": "\u30D2\u30E3\u30AF\u3001 \u30D3\u30E3\u30AF",
+            "romaji": "hyaku, byaku"
+          },
+          "kunyomi": {
+            "kana": "momo",
+            "romaji": "\u3082\u3082"
+          }
+        },
+        {
+          "kanji": "\u66F8",
+          "translation": "write",
+          "onyomi": {
+            "kana": "\u30B7\u30E7",
+            "romaji": "sho"
+          },
+          "kunyomi": {
+            "kana": "kaku",
+            "romaji": "\u304B(\u304F)"
+          }
+        },
+        {
+          "kanji": "\u5148",
+          "translation": "before, ahead, previous, future, precedence",
+          "onyomi": {
+            "kana": "\u30BB\u30F3",
+            "romaji": "sen"
+          },
+          "kunyomi": {
+            "kana": "saki, ma(zu)",
+            "romaji": "\u3055\u304D\u3001 \u307E(\u305A)"
+          }
+        },
+        {
+          "kanji": "\u540D",
+          "translation": "name, noted, distinguished, reputation",
+          "onyomi": {
+            "kana": "\u30E1\u30A4\u3001 \u30DF\u30E7\u30A6",
+            "romaji": "mei, myou"
+          },
+          "kunyomi": {
+            "kana": "na",
+            "romaji": "\u306A"
+          }
+        },
+        {
+          "kanji": "\u5DDD",
+          "translation": "river, stream",
+          "onyomi": {
+            "kana": "\u30BB\u30F3",
+            "romaji": "sen"
+          },
+          "kunyomi": {
+            "kana": "kawa",
+            "romaji": "\u304B\u308F"
+          }
+        },
+        {
+          "kanji": "\u5343",
+          "translation": "thousand",
+          "onyomi": {
+            "kana": "\u30BB\u30F3",
+            "romaji": "sen"
+          },
+          "kunyomi": {
+            "kana": "chi",
+            "romaji": "\u3061"
+          }
+        },
+        {
+          "kanji": "\u6C34",
+          "translation": "water",
+          "onyomi": {
+            "kana": "\u30B9\u30A4",
+            "romaji": "sui"
+          },
+          "kunyomi": {
+            "kana": "mizu",
+            "romaji": "\u307F\u305A"
+          }
+        },
+        {
+          "kanji": "\u534A",
+          "translation": "half, middle, odd number, semi-",
+          "onyomi": {
+            "kana": "\u30CF\u30F3",
+            "romaji": "han"
+          },
+          "kunyomi": {
+            "kana": "naka(ba)",
+            "romaji": "\u306A\u304B(\u3070)"
+          }
+        },
+        {
+          "kanji": "\u7537",
+          "translation": "\u0022male",
+          "onyomi": {
+            "kana": "\u30C0\u30F3\u3001 \u30CA\u30F3",
+            "romaji": "dan, nan"
+          },
+          "kunyomi": {
+            "kana": "otoko, o",
+            "romaji": "\u304A\u3068\u3053\u3001 \u304A"
+          }
+        },
+        {
+          "kanji": "\u897F",
+          "translation": "west",
+          "onyomi": {
+            "kana": "\u30BB\u30A4\u3001 \u30B5\u30A4",
+            "romaji": "sei, sai"
+          },
+          "kunyomi": {
+            "kana": "nishi",
+            "romaji": "\u306B\u3057"
+          }
+        },
+        {
+          "kanji": "\u96FB",
+          "translation": "\u0022electricity",
+          "onyomi": {
+            "kana": "\u30C7\u30F3",
+            "romaji": "den"
+          },
+          "kunyomi": {
+            "kana": "empty",
+            "romaji": "\u7A7A"
+          }
+        },
+        {
+          "kanji": "\u6821",
+          "translation": "school, exam",
+          "onyomi": {
+            "kana": "\u30B3\u30A6",
+            "romaji": "kou"
+          },
+          "kunyomi": {
+            "kana": "empty",
+            "romaji": "\u7A7A"
+          }
+        },
+        {
+          "kanji": "\u8A9E",
+          "translation": "word, speech, language",
+          "onyomi": {
+            "kana": "\u30B4",
+            "romaji": "go"
+          },
+          "kunyomi": {
+            "kana": "kata(ru)",
+            "romaji": "\u304B\u305F(\u308B)"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N5_4",
+      "kanjiList": [
+        {
+          "kanji": "\u571F",
+          "translation": "soil, earth, ground",
+          "onyomi": {
+            "kana": "\u30C9\u3001 \u30C8",
+            "romaji": "do, to"
+          },
+          "kunyomi": {
+            "kana": "tsuchi",
+            "romaji": "\u3064\u3061"
+          }
+        },
+        {
+          "kanji": "\u6728",
+          "translation": "tree, wood",
+          "onyomi": {
+            "kana": "\u30DC\u30AF\u3001 \u30E2\u30AF",
+            "romaji": "boku, moku"
+          },
+          "kunyomi": {
+            "kana": "ki, ko",
+            "romaji": "\u304D\u3001 \u3053-"
+          }
+        },
+        {
+          "kanji": "\u805E",
+          "translation": "\u0022to hear",
+          "onyomi": {
+            "kana": "\u30D6\u30F3\u3001 \u30E2\u30F3",
+            "romaji": "bun, mon"
+          },
+          "kunyomi": {
+            "kana": "ki(ku)",
+            "romaji": "\u304D(\u304F)"
+          }
+        },
+        {
+          "kanji": "\u98DF",
+          "translation": "eat, food",
+          "onyomi": {
+            "kana": "\u30B7\u30E7\u30AF\u3001 \u30B8\u30AD",
+            "romaji": "shoku, jiki"
+          },
+          "kunyomi": {
+            "kana": "k(u), ta(beru), ha(mu)",
+            "romaji": "\u304F(\u3046)\u3001 \u305F(\u3079\u308B)\u3001 \u306F(\u3080)"
+          }
+        },
+        {
+          "kanji": "\u8ECA",
+          "translation": "car, wheel",
+          "onyomi": {
+            "kana": "\u30B7\u30E3",
+            "romaji": "sha"
+          },
+          "kunyomi": {
+            "kana": "kuruma",
+            "romaji": "\u304F\u308B\u307E"
+          }
+        },
+        {
+          "kanji": "\u4F55",
+          "translation": "what",
+          "onyomi": {
+            "kana": "\u30AB",
+            "romaji": "ka"
+          },
+          "kunyomi": {
+            "kana": "nani, nan",
+            "romaji": "\u306A\u306B\u3001 \u306A\u3093"
+          }
+        },
+        {
+          "kanji": "\u5357",
+          "translation": "south",
+          "onyomi": {
+            "kana": "\u30CA\u30F3\u3001 \u30CA",
+            "romaji": "nan, na"
+          },
+          "kunyomi": {
+            "kana": "minami",
+            "romaji": "\u307F\u306A\u307F"
+          }
+        },
+        {
+          "kanji": "\u4E07",
+          "translation": "ten thousand, 10,000",
+          "onyomi": {
+            "kana": "\u30DE\u30F3\u3001 \u30D0\u30F3",
+            "romaji": "man, ban"
+          },
+          "kunyomi": {
+            "kana": "empty",
+            "romaji": "\u7A7A"
+          }
+        },
+        {
+          "kanji": "\u6BCE",
+          "translation": "every",
+          "onyomi": {
+            "kana": "\u30DE\u30A4",
+            "romaji": "mai"
+          },
+          "kunyomi": {
+            "kana": "goto(ni)",
+            "romaji": "\u3054\u3068(\u306B)"
+          }
+        },
+        {
+          "kanji": "\u767D",
+          "translation": "white",
+          "onyomi": {
+            "kana": "\u30CF\u30AF\u3001 \u30D3\u30E3\u30AF",
+            "romaji": "haku, byaku"
+          },
+          "kunyomi": {
+            "kana": "shiro(i)",
+            "romaji": "\u3057\u308D(\u3044)"
+          }
+        },
+        {
+          "kanji": "\u5929",
+          "translation": "heavens, sky, imperial",
+          "onyomi": {
+            "kana": "\u30C6\u30F3",
+            "romaji": "ten"
+          },
+          "kunyomi": {
+            "kana": "amatsu",
+            "romaji": "\u3042\u307E\u3064"
+          }
+        },
+        {
+          "kanji": "\u6BCD",
+          "translation": "mother",
+          "onyomi": {
+            "kana": "\u30DC",
+            "romaji": "bo"
+          },
+          "kunyomi": {
+            "kana": "haha, kaa",
+            "romaji": "\u306F\u306F\u3001 \u304B\u3042"
+          }
+        },
+        {
+          "kanji": "\u706B",
+          "translation": "fire",
+          "onyomi": {
+            "kana": "\u30AB",
+            "romaji": "ka"
+          },
+          "kunyomi": {
+            "kana": "hi, bi, ho",
+            "romaji": "\u3072\u3001 -\u3073\u3001 \u307B-"
+          }
+        },
+        {
+          "kanji": "\u53F3",
+          "translation": "right (direction)",
+          "onyomi": {
+            "kana": "\u30A6\u3001 \u30E6\u30A6",
+            "romaji": "u, yuu"
+          },
+          "kunyomi": {
+            "kana": "migi",
+            "romaji": "\u307F\u304E"
+          }
+        },
+        {
+          "kanji": "\u8AAD",
+          "translation": "to read",
+          "onyomi": {
+            "kana": "\u30C9\u30AF\u3001 \u30C8\u30AF\u3001 \u30C8\u30A6",
+            "romaji": "doku, toku, tou"
+          },
+          "kunyomi": {
+            "kana": "yo(mu)",
+            "romaji": "\u3088(\u3080)"
+          }
+        },
+        {
+          "kanji": "\u53CB",
+          "translation": "friend",
+          "onyomi": {
+            "kana": "\u30E6\u30A6",
+            "romaji": "yuu"
+          },
+          "kunyomi": {
+            "kana": "tomo",
+            "romaji": "\u3068\u3082"
+          }
+        },
+        {
+          "kanji": "\u5DE6",
+          "translation": "left",
+          "onyomi": {
+            "kana": "\u30B5\u3001 \u30B7\u30E3",
+            "romaji": "sa, sha"
+          },
+          "kunyomi": {
+            "kana": "hidari",
+            "romaji": "\u3072\u3060\u308A"
+          }
+        },
+        {
+          "kanji": "\u4F11",
+          "translation": "rest, day off, retire, sleep",
+          "onyomi": {
+            "kana": "\u30AD\u30E5\u30A6",
+            "romaji": "kyuu"
+          },
+          "kunyomi": {
+            "kana": "yasu(mu)",
+            "romaji": "\u3084\u3059(\u3080)"
+          }
+        },
+        {
+          "kanji": "\u7236",
+          "translation": "father",
+          "onyomi": {
+            "kana": "\u30D5",
+            "romaji": "fu"
+          },
+          "kunyomi": {
+            "kana": "chichi, tou",
+            "romaji": "\u3061\u3061\u3001 \u3068\u3046"
+          }
+        },
+        {
+          "kanji": "\u96E8",
+          "translation": "rain",
+          "onyomi": {
+            "kana": "\u30A6",
+            "romaji": "u"
+          },
+          "kunyomi": {
+            "kana": "ame, ama",
+            "romaji": "\u3042\u3081\u3001 \u3042\u307E"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dd3lnlopdxw5w"
+
+[deps]
+
+source_file="res://data/Vocabulary/CSV/N5.csv"
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

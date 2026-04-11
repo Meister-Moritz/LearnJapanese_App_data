@@ -1,0 +1,639 @@
+﻿{
+  "section": "radicals",
+  "subsectionList": [
+    {
+      "subsection": "radicals_1",
+      "kanjiList": [
+        {
+          "kanji": "\u53E3\u00A0",
+          "translation": "Mouth / Opening",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u56D7\u00A0",
+          "translation": "Enclosure",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u6C34\u00A0or\u00A0\u6C35",
+          "translation": "Water",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u6728\u00A0",
+          "translation": "Tree",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u4EBA\u00A0or\u00A0\u4EBB",
+          "translation": "Person",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u624B\u00A0or\u00A0\u624C\u00A0",
+          "translation": "Hand",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5FC4\u00A0Or\u00A0\u2E97\u00A0OR\u00A0\u5FC3 ",
+          "translation": "Heart (Spirit, Mind)",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u8A00\u00A0",
+          "translation": "Say, Word, to Speak",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u65E5\u00A0",
+          "translation": "Sun or Day",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u7CF8\u00A0",
+          "translation": "Thread, Yarn, String, 0.001%",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5E7A\u00A0",
+          "translation": "Small or Tiny",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u8089\u00A0",
+          "translation": "Meat, Organ, Flesh",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u6708\u00A0",
+          "translation": "Moon or Month",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u571F\u00A0",
+          "translation": "Ground, Earth, Soil",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\uFA66\u00A0and\u00A0\u8FB6\u00A0",
+          "translation": "Go, Road, Walk, To advance",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u8279\u00A0and\u00A0\u8278\u00A0",
+          "translation": "Grass / Plant",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5B80\u00A0",
+          "translation": "Roof / Crown",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u8C9D\u00A0",
+          "translation": "Shell / Property / Wealth",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5973\u00A0",
+          "translation": "Woman",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u961D\u00A0",
+          "translation": "left side: Hill, right side: Village/City",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u91D1\u00A0",
+          "translation": "Gold\u00A0/ Metal / Mineral",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u4E00\u00A0",
+          "translation": "One",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5200,\u00A0\u5202, and\u00A0\u5201\u00A0",
+          "translation": "Sword",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u529B\u00A0",
+          "translation": "Power, Strength, Ability",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5341\u00A0",
+          "translation": "Ten",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u7530\u00A0",
+          "translation": "Rice Field",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "radicals_2",
+      "kanjiList": [
+        {
+          "kanji": "\u706B\u00A0or\u00A0\u706C\u00A0",
+          "translation": "Fire",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5927\u00A0",
+          "translation": "Big, Large",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5C71\u00A0",
+          "translation": "Mountain",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u98DF\u00A0or\u00A0\u98E0\u00A0",
+          "translation": "Eat, Food",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u8ECA\u00A0",
+          "translation": "Car or Vehicle",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5F73\u00A0",
+          "translation": "Small step, Walking Slowly, Walk a little, Stride",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u76EE\u00A0or\u00A0\u7F52\u00A0",
+          "translation": "Eye",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u96E8\u00A0",
+          "translation": "Rain",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u72AC\u00A0and\u00A0\u72AD\u00A0",
+          "translation": "Dog",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u738B\u00A0",
+          "translation": "King",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u7389\u00A0",
+          "translation": "Jade, Jewel, or Ball",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u77F3\u00A0",
+          "translation": "Stone",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5F13\u00A0",
+          "translation": "Strength, Ability, Pull, Stretch, Attract",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u8863\u00A0and\u00A0\u8864\u00A0",
+          "translation": "Clothes, Robe, Gown",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u7AF9\u00A0and\u00A0\u2EAE\u00A0",
+          "translation": "Bamboo",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u53C8\u00A0",
+          "translation": "Again, Also (Mata)",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u6534\u00A0and\u00A0\u6535\u00A0",
+          "translation": "Strike (U-tsu)",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5902\u00A0",
+          "translation": "Winter (Fuyu)",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u793A\u00A0or\u00A0\u793B",
+          "translation": "Show, Display, Indicate (Shime-su)",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u9149\u00A0",
+          "translation": "Bird/Alcohol",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u79BE\u00A0",
+          "translation": "Grain",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5E7F\u00A0",
+          "translation": "Dotted cliff",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u7592\u00A0",
+          "translation": "Sickness",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5DFE\u00A0",
+          "translation": "Towel, Cloth, Width",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5C38\u00A0",
+          "translation": "Corpse, Remains Flag",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        },
+        {
+          "kanji": "\u5BF8\u00A0",
+          "translation": "Brief, Small, Measurement",
+          "onyomi": {
+            "kana": null,
+            "romaji": null
+          },
+          "kunyomi": {
+            "kana": null,
+            "romaji": null
+          }
+        }
+      ]
+    }
+  ]
+}

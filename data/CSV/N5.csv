@@ -1,0 +1,81 @@
+;no;Kanji;onyomi-romaji;onyomi-kana;Kunyomi-kana;kunyomi-romanji;translation
+;1;日;nichi, jitsu;ニチ, ジツ;ひ, -び, -か;-hi, -bi, -ka;day, sun, Japan, counter for days
+;2;一;ichi;イチ;ひと(つ);hito(tsu);one
+;3;国;koku;コク;くに;kuni;country
+;4;人;jin, nin;ジン、 ニン;ひと;hito;person
+;5;年;nen;ネン;とし;toshi;year, counter for years
+;6;大;dai, tai;ダイ、 タイ;おお(きい);oo(kii);large, big
+;7;十;juu;ジュウ;とお、 と;tou, to;ten, 10
+;8;二;ni, ji;ニ、 ジ;ふた(つ);futa(tsu);two, 2
+;9;本;hon;ホン;もと;moto;book, present, true, counter for long cylindrical things
+;10;中;chuu;チュウ;なか、 うち、 あた(る);naka, uchi, ata(ru);in, inside, middle, mean, center
+;11;長;chou;チョウ;なが(い)、 おさ;naga(i), osa;long, leader, superior, senior
+;12;出;shutsu, sui;シュツ、 スイ;で(る)、 だ(す)、 い(でる);de(ru), da(su), i(deru);exit, leave, go out
+;13;三;san;サン;み(つ);mi(tsu);three, 3
+;14;時;ji;ジ;とき、 -どき;toki, doki;time, hour
+;15;行;kou, gyou, an;コウ、 ギョウ、 アン;い(く)、 ゆ(く)、 おこな(う);i(ku), yu(ku), okona(u);going, journey, carry out, line, row
+;16;見;ken;ケン;み(る)、 み(せる);mi(ru), mi(seru);see, hopes, chances, idea, opinion, look at, visible
+;17;月;getsu, gatsu;ゲツ、 ガツ;つき;tsuki;month, moon
+;18;分;bun, fun, bu;ブン、 フン、 ブ;わ(ける);wa(keru);part, minute of time, understand
+;19;後;go, kou;ゴ、 コウ;のち、 うし(ろ)、 あと;nochi, ushi(ro), ato;behind, back, later
+;20;前;zen;ゼン;まえ;mae;in front, before
+;21;生;sei, shou;セイ、 ショウ;い(きる)、 う(む)、 お(う)、 は(える)、 なま;i(kiru), u(mu), o(u), ha(eru), nama;life, genuine, birth
+;22;五;go;ゴ;いつ(つ);itsu(tsu);five, 5
+;23;間;kan, ken;カン、 ケン;あいだ、 ま、 あい;aida, ma, ai;interval, space
+;24;上;jou, shou, shan;ジョウ、 ショウ、 シャン;うえ、 うわ-、 かみ、 あ(げる)、 のぼ(る)、 たてまつ(る);ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru);above, up
+;25;東;tou;トウ;ひがし;higashi;east
+;26;四;shi;シ;よ(つ)、 よん;yo(tsu), yon;four, 4
+;27;今;kon, kin;コン、 キン;いま;ima;"now; the present"
+;28;金;kin, kon, gon;キン、 コン、 ゴン;かね、 かな-、 -がね;kane, kana, gane;gold
+;29;九;kyuu, ku;キュウ、 ク;ここの(つ);kokono(tsu);nine, 9
+;30;入;nyuu;ニュウ;い(る)、はい(る);i(ru), hai(ru);enter, insert
+;31;学;gaku;ガク;まな(ぶ);mana(bu);study, learning, science
+;32;高;kou;コウ;たか(い);taka(i);tall, high, expensive
+;33;円;en;エン;まる(い);maru(i);circle, yen, round
+;34;子;shi, su, tsu;シ、 ス、 ツ;こ、 ね;ko, ne;child
+;35;外;gai, ge;ガイ、 ゲ;そと、 ほか、 はず(す)、 と-;soto, hoka, hazu-, to-;outside
+;36;八;hachi;ハチ;や(つ)、 よう;ya(tsu), you;eight, 8
+;37;六;roku;ロク;む(つ)、 むい;mu(tsu), mui;six, 6
+;38;下;ka, ge;カ、 ゲ;した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす);shita, shimo, moto, sa(geru), kuda(ru), o(rosu);below, down, descend, give, low, inferior
+;39;来;rai, tai;ライ、 タイ;く.る、 きた.る、 き、 こ;kuru, kitaru, ki, ko;come, due, next, cause, become
+;40;気;ki, ke;キ、 ケ;いき;iki;spirit, mind, air, atmosphere, mood
+;41;小;shou;ショウ;ちい(さい)、 こ-、 お-、 さ-;chii(sai), ko-, o-, sa-;little, small
+;42;七;shichi;シチ;なな(つ)、 なの;nana(tsu), nano;seven, 7
+;43;山;san, sen;サン、 セン;やま;yama;mountain
+;44;話;wa;ワ;はな(す)、 はなし;hana(su), hanashi;tale, talk
+;45;女;jo;ジョ;おんな、 め;onnna, me;woman, female
+;46;北;hoku;ホク;きた;kita;north
+;47;午;go;ゴ;うま;uma;noon, sign of the horse
+;48;百;hyaku, byaku;ヒャク、 ビャク;もも;momo;hundred
+;49;書;sho;ショ;か(く);kaku;write
+;50;先;sen;セン;さき、 ま(ず);saki, ma(zu);before, ahead, previous, future, precedence
+;51;名;mei, myou;メイ、 ミョウ;な;na;name, noted, distinguished, reputation
+;52;川;sen;セン;かわ;kawa;river, stream
+;53;千;sen;セン;ち;chi;thousand
+;54;水;sui;スイ;みず;mizu;water
+;55;半;han;ハン;なか(ば);naka(ba);half, middle, odd number, semi-
+;56;男;dan, nan;ダン、 ナン;おとこ、 お;otoko, o;"male; man"
+;57;西;sei, sai;セイ、 サイ;にし;nishi;west
+;58;電;den;デン;空;empty;"electricity; electric powered"
+;59;校;kou;コウ;空;empty;school, exam
+;60;語;go;ゴ;かた(る);kata(ru);word, speech, language
+;61;土;do, to;ド、 ト;つち;tsuchi;soil, earth, ground
+;62;木;boku, moku;ボク、 モク;き、 こ-;ki, ko;tree, wood
+;63;聞;bun, mon;ブン、 モン;き(く);ki(ku);"to hear; to listen; to ask"
+;64;食;shoku, jiki;ショク、 ジキ;く(う)、 た(べる)、 は(む);k(u), ta(beru), ha(mu);eat, food
+;65;車;sha;シャ;くるま;kuruma;car, wheel
+;66;何;ka;カ;なに、 なん;nani, nan;what
+;67;南;nan, na;ナン、 ナ;みなみ;minami;south
+;68;万;man, ban;マン、 バン;空;empty;ten thousand, 10,000
+;69;毎;mai;マイ;ごと(に);goto(ni);every
+;70;白;haku, byaku;ハク、 ビャク;しろ(い);shiro(i);white
+;71;天;ten;テン;あまつ;amatsu;heavens, sky, imperial
+;72;母;bo;ボ;はは、 かあ;haha, kaa;mother
+;73;火;ka;カ;ひ、 -び、 ほ-;hi, bi, ho;fire
+;74;右;u, yuu;ウ、 ユウ;みぎ;migi;right (direction)
+;75;読;doku, toku, tou;ドク、 トク、 トウ;よ(む);yo(mu);to read
+;76;友;yuu;ユウ;とも;tomo;friend
+;77;左;sa, sha;サ、 シャ;ひだり;hidari;left
+;78;休;kyuu;キュウ;やす(む);yasu(mu);rest, day off, retire, sleep
+;79;父;fu;フ;ちち、 とう;chichi, tou;father
+;80;雨;u;ウ;あめ、 あま;ame, ama;rain

@@ -1,0 +1,2044 @@
+﻿{
+  "section": "N4",
+  "subsectionList": [
+    {
+      "subsection": "N4_1",
+      "kanjiList": [
+        {
+          "kanji": "\u4F1A",
+          "translation": "\u0022meeting",
+          "onyomi": {
+            "kana": "\u30AB\u30A4",
+            "romaji": "kai"
+          },
+          "kunyomi": {
+            "kana": "\u3042(\u3046)",
+            "romaji": "a(u)"
+          }
+        },
+        {
+          "kanji": "\u540C",
+          "translation": "same, agree, equal",
+          "onyomi": {
+            "kana": "\u30C9\u30A6",
+            "romaji": "dou"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u306A(\u3058)",
+            "romaji": "onaji"
+          }
+        },
+        {
+          "kanji": "\u4E8B",
+          "translation": "matter, thing, fact, business, reason, possibly",
+          "onyomi": {
+            "kana": "\u30B8",
+            "romaji": "ji"
+          },
+          "kunyomi": {
+            "kana": "\u3053\u3068",
+            "romaji": "koto"
+          }
+        },
+        {
+          "kanji": "\u81EA",
+          "translation": "oneself",
+          "onyomi": {
+            "kana": "\u30B8\u3001 \u30B7",
+            "romaji": "ji, shi"
+          },
+          "kunyomi": {
+            "kana": "\u307F\u305A\u304B(\u3089)",
+            "romaji": "mizuka(ra)"
+          }
+        },
+        {
+          "kanji": "\u793E",
+          "translation": "company, firm, office, association, shrine",
+          "onyomi": {
+            "kana": "\u30B7\u30E3",
+            "romaji": "sha"
+          },
+          "kunyomi": {
+            "kana": "\u3084\u3057\u308D",
+            "romaji": "yashiro"
+          }
+        },
+        {
+          "kanji": "\u767A",
+          "translation": "departure, discharge, emit, start from",
+          "onyomi": {
+            "kana": "\u30CF\u30C4\u3001 \u30DB\u30C4",
+            "romaji": "hatsu, hotsu"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u8005",
+          "translation": "someone, person",
+          "onyomi": {
+            "kana": "\u30B7\u30E3",
+            "romaji": "sha"
+          },
+          "kunyomi": {
+            "kana": "\u3082\u306E",
+            "romaji": "mono"
+          }
+        },
+        {
+          "kanji": "\u5730",
+          "translation": "ground, earth",
+          "onyomi": {
+            "kana": "\u30C1\u3001 \u30B8",
+            "romaji": "chi, ji"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u696D",
+          "translation": "business, vocation, arts, performance",
+          "onyomi": {
+            "kana": "\u30AE\u30E7\u30A6",
+            "romaji": "gyou"
+          },
+          "kunyomi": {
+            "kana": "\u308F\u3056",
+            "romaji": "waza"
+          }
+        },
+        {
+          "kanji": "\u65B9",
+          "translation": "direction, person, alternative",
+          "onyomi": {
+            "kana": "\u30DB\u30A6",
+            "romaji": "hou"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u305F",
+            "romaji": "kata"
+          }
+        },
+        {
+          "kanji": "\u65B0",
+          "translation": "new",
+          "onyomi": {
+            "kana": "\u30B7\u30F3",
+            "romaji": "shin"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u305F\u3089(\u3057\u3044)\u3001 \u3042\u3089(\u305F)",
+            "romaji": "atara(shii), ara(ta)"
+          }
+        },
+        {
+          "kanji": "\u5834",
+          "translation": "location, place",
+          "onyomi": {
+            "kana": "\u30B8\u30E7\u30A6",
+            "romaji": "jou"
+          },
+          "kunyomi": {
+            "kana": "\u3070",
+            "romaji": "ba"
+          }
+        },
+        {
+          "kanji": "\u54E1",
+          "translation": "employee, member, number, the one in charge",
+          "onyomi": {
+            "kana": "\u30A4\u30F3",
+            "romaji": "in"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u7ACB",
+          "translation": "stand up, rise",
+          "onyomi": {
+            "kana": "\u30EA\u30C4",
+            "romaji": "ritsu"
+          },
+          "kunyomi": {
+            "kana": "\u305F(\u3064)",
+            "romaji": "ta(tsu)"
+          }
+        },
+        {
+          "kanji": "\u958B",
+          "translation": "open, unfold, unseal",
+          "onyomi": {
+            "kana": "\u30AB\u30A4",
+            "romaji": "kai"
+          },
+          "kunyomi": {
+            "kana": "\u3072\u3089(\u304F)\u3001 \u3042(\u3051\u308B)",
+            "romaji": "hira(ku), a(keru)"
+          }
+        },
+        {
+          "kanji": "\u624B",
+          "translation": "hand",
+          "onyomi": {
+            "kana": "\u30B7\u30E5",
+            "romaji": "shu"
+          },
+          "kunyomi": {
+            "kana": "\u3066",
+            "romaji": "te"
+          }
+        },
+        {
+          "kanji": "\u529B",
+          "translation": "power, strength, strong, strain, bear up, exert",
+          "onyomi": {
+            "kana": "\u30EA\u30E7\u30AF\u3001 \u30EA\u30AD",
+            "romaji": "ryoku, riki"
+          },
+          "kunyomi": {
+            "kana": "\u3061\u304B\u3089",
+            "romaji": "chikara"
+          }
+        },
+        {
+          "kanji": "\u554F",
+          "translation": "question, ask, problem",
+          "onyomi": {
+            "kana": "\u30E2\u30F3",
+            "romaji": "mon"
+          },
+          "kunyomi": {
+            "kana": "\u3068(\u3046)",
+            "romaji": "to(u)"
+          }
+        },
+        {
+          "kanji": "\u4EE3",
+          "translation": "substitute, change, convert, replace, period",
+          "onyomi": {
+            "kana": "\u30C0\u30A4",
+            "romaji": "dai"
+          },
+          "kunyomi": {
+            "kana": "\u304B(\u308F\u308A)",
+            "romaji": "ka(wari)"
+          }
+        },
+        {
+          "kanji": "\u660E",
+          "translation": "bright, light",
+          "onyomi": {
+            "kana": "\u30E1\u30A4\u3001 \u30DF\u30E7\u30A6",
+            "romaji": "mei, myou"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u304B(\u308B\u3044)",
+            "romaji": "aka(rui)"
+          }
+        },
+        {
+          "kanji": "\u52D5",
+          "translation": "move, motion, change",
+          "onyomi": {
+            "kana": "\u30C9\u30A6",
+            "romaji": "dou"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u3054(\u304F)",
+            "romaji": "ugo(ku)"
+          }
+        },
+        {
+          "kanji": "\u4EAC",
+          "translation": "capital",
+          "onyomi": {
+            "kana": "\u30AD\u30E7\u30A6\u3001 \u30B1\u30A4\u3001 \u30AD\u30F3",
+            "romaji": "kyou, kei, kin"
+          },
+          "kunyomi": {
+            "kana": "\u307F\u3084\u3053",
+            "romaji": "miyako"
+          }
+        },
+        {
+          "kanji": "\u76EE",
+          "translation": "eye, class, look, insight, experience",
+          "onyomi": {
+            "kana": "\u30E2\u30AF\u3001 \u30DC\u30AF",
+            "romaji": "moku, boku"
+          },
+          "kunyomi": {
+            "kana": "\u3081",
+            "romaji": "me"
+          }
+        },
+        {
+          "kanji": "\u901A",
+          "translation": "traffic, pass through, avenue, commute",
+          "onyomi": {
+            "kana": "\u30C4\u30A6",
+            "romaji": "tsuu"
+          },
+          "kunyomi": {
+            "kana": "\u3068\u304A(\u308B)\u3001\u304B\u3088(\u3046)",
+            "romaji": "too(ru), kayo(u)"
+          }
+        },
+        {
+          "kanji": "\u8A00",
+          "translation": "say, word",
+          "onyomi": {
+            "kana": "\u30B2\u30F3\u3001 \u30B4\u30F3",
+            "romaji": "gen, gon"
+          },
+          "kunyomi": {
+            "kana": "\u3044\uFF08\u3046\uFF09\u3001 \u3053\u3068",
+            "romaji": "i(u), koto"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N4_2",
+      "kanjiList": [
+        {
+          "kanji": "\u7406",
+          "translation": "logic, arrangement, reason, justice, truth",
+          "onyomi": {
+            "kana": "\u30EA",
+            "romaji": "ri"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u4F53",
+          "translation": "body, substance, object, reality",
+          "onyomi": {
+            "kana": "\u30BF\u30A4",
+            "romaji": "tai"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u3089\u3060",
+            "romaji": "karada"
+          }
+        },
+        {
+          "kanji": "\u7530",
+          "translation": "rice field, rice paddy",
+          "onyomi": {
+            "kana": "\u30C7\u30F3",
+            "romaji": "den"
+          },
+          "kunyomi": {
+            "kana": "\u305F",
+            "romaji": "ta"
+          }
+        },
+        {
+          "kanji": "\u4E3B",
+          "translation": "lord, chief, master, main thing, principal",
+          "onyomi": {
+            "kana": "\u30B7\u30E5",
+            "romaji": "shu"
+          },
+          "kunyomi": {
+            "kana": "\u306C\u3057\u3001 \u304A\u3082",
+            "romaji": "nushi, omo"
+          }
+        },
+        {
+          "kanji": "\u984C",
+          "translation": "topic, subject",
+          "onyomi": {
+            "kana": "\u30C0\u30A4",
+            "romaji": "dai"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u610F",
+          "translation": "idea, mind, heart, taste, thought",
+          "onyomi": {
+            "kana": "\u30A4",
+            "romaji": "i"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u4E0D",
+          "translation": "negative, non-, bad",
+          "onyomi": {
+            "kana": "\u30D5\u3001 \u30D6",
+            "romaji": "fu, bu"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u4F5C",
+          "translation": "make, production, prepare, build",
+          "onyomi": {
+            "kana": "\u30B5\u30AF\u3001 \u30B5",
+            "romaji": "saku, sa"
+          },
+          "kunyomi": {
+            "kana": "\u3064\u304F(\u308B)",
+            "romaji": "tsuku(ru)"
+          }
+        },
+        {
+          "kanji": "\u7528",
+          "translation": "utilize, business, service, use, employ",
+          "onyomi": {
+            "kana": "\u30E8\u30A6",
+            "romaji": "you"
+          },
+          "kunyomi": {
+            "kana": "\u3082\u3061(\u3044\u308B)",
+            "romaji": "mochi(iru)"
+          }
+        },
+        {
+          "kanji": "\u5EA6",
+          "translation": "degrees, occurrence, time, counter for occurrences",
+          "onyomi": {
+            "kana": "\u30C9\u3001 \u30BF\u30AF",
+            "romaji": "do, taku"
+          },
+          "kunyomi": {
+            "kana": "\u305F\u3073\u3001 \u305F(\u3044)",
+            "romaji": "tabi, ta(i)"
+          }
+        },
+        {
+          "kanji": "\u5F37",
+          "translation": "strong",
+          "onyomi": {
+            "kana": "\u30AD\u30E7\u30A6\u3001 \u30B4\u30A6",
+            "romaji": "kyou, gou"
+          },
+          "kunyomi": {
+            "kana": "\u3064\u3088(\u3044)",
+            "romaji": "tsuyo(i)"
+          }
+        },
+        {
+          "kanji": "\u516C",
+          "translation": "public, prince, official, governmental",
+          "onyomi": {
+            "kana": "\u30B3\u30A6",
+            "romaji": "kou"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u6301",
+          "translation": "hold, have",
+          "onyomi": {
+            "kana": "\u30B8",
+            "romaji": "ji"
+          },
+          "kunyomi": {
+            "kana": "\u3082(\u3064)",
+            "romaji": "mo(tsu)"
+          }
+        },
+        {
+          "kanji": "\u91CE",
+          "translation": "plains, field, rustic, civilian life",
+          "onyomi": {
+            "kana": "\u30E4",
+            "romaji": "ya"
+          },
+          "kunyomi": {
+            "kana": "\u306E",
+            "romaji": "no"
+          }
+        },
+        {
+          "kanji": "\u4EE5",
+          "translation": "by means of, because, in view of, compared with",
+          "onyomi": {
+            "kana": "\u30A4",
+            "romaji": "i"
+          },
+          "kunyomi": {
+            "kana": "\u3082\u3063(\u3066)",
+            "romaji": "mo(tte)"
+          }
+        },
+        {
+          "kanji": "\u601D",
+          "translation": "think",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u3082(\u3046)",
+            "romaji": "omo(u)"
+          }
+        },
+        {
+          "kanji": "\u5BB6",
+          "translation": "house, home, family, professional, expert",
+          "onyomi": {
+            "kana": "\u30AB",
+            "romaji": "ka"
+          },
+          "kunyomi": {
+            "kana": "\u3044\u3048\u3001 \u3084\u3001 \u3046\u3061",
+            "romaji": "ie, ya, uchi"
+          }
+        },
+        {
+          "kanji": "\u4E16",
+          "translation": "generation, world, society, public",
+          "onyomi": {
+            "kana": "\u30BB\u30A4\u3001 \u30BB",
+            "romaji": "sei, se"
+          },
+          "kunyomi": {
+            "kana": "\u3088",
+            "romaji": "yo"
+          }
+        },
+        {
+          "kanji": "\u591A",
+          "translation": "many, frequent, much",
+          "onyomi": {
+            "kana": "\u30BF",
+            "romaji": "ta"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u304A(\u3044)",
+            "romaji": "oo(i)"
+          }
+        },
+        {
+          "kanji": "\u6B63",
+          "translation": "correct, justice, righteous",
+          "onyomi": {
+            "kana": "\u30BB\u30A4\u3001 \u30B7\u30E7\u30A6",
+            "romaji": "sei, shou"
+          },
+          "kunyomi": {
+            "kana": "\u305F\u3060(\u3057\u3044)\u3001 \u307E\u3055(\u306B)",
+            "romaji": "tada(shii), masa(ni)"
+          }
+        },
+        {
+          "kanji": "\u5B89",
+          "translation": "safe, peaceful, cheap",
+          "onyomi": {
+            "kana": "\u30A2\u30F3",
+            "romaji": "an"
+          },
+          "kunyomi": {
+            "kana": "\u3084\u3059(\u3044)",
+            "romaji": "yasu(i)"
+          }
+        },
+        {
+          "kanji": "\u9662",
+          "translation": "institution, temple, mansion, school",
+          "onyomi": {
+            "kana": "\u30A4\u30F3",
+            "romaji": "in"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u5FC3",
+          "translation": "heart, mind, spirit",
+          "onyomi": {
+            "kana": "\u30B7\u30F3",
+            "romaji": "shin"
+          },
+          "kunyomi": {
+            "kana": "\u3053\u3053\u308D",
+            "romaji": "kokoro"
+          }
+        },
+        {
+          "kanji": "\u754C",
+          "translation": "world, boundary",
+          "onyomi": {
+            "kana": "\u30AB\u30A4",
+            "romaji": "kai"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u6559",
+          "translation": "teach, faith, doctrine",
+          "onyomi": {
+            "kana": "\u30AD\u30E7\u30A6",
+            "romaji": "kyou"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u3057(\u3048\u308B)\u3001 \u304A\u305D(\u308F\u308B)",
+            "romaji": "oshi(eru), oso(waru)"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N4_3",
+      "kanjiList": [
+        {
+          "kanji": "\u6587",
+          "translation": "sentence, literature, style, art",
+          "onyomi": {
+            "kana": "\u30D6\u30F3\u3001 \u30E2\u30F3",
+            "romaji": "bun, mon"
+          },
+          "kunyomi": {
+            "kana": "\u3075\u307F",
+            "romaji": "fumi"
+          }
+        },
+        {
+          "kanji": "\u5143",
+          "translation": "beginning, former time, origin",
+          "onyomi": {
+            "kana": "\u30B2\u30F3\u3001 \u30AC\u30F3",
+            "romaji": "gen, gan"
+          },
+          "kunyomi": {
+            "kana": "\u3082\u3068",
+            "romaji": "moto"
+          }
+        },
+        {
+          "kanji": "\u91CD",
+          "translation": "heavy, important, esteem, respect",
+          "onyomi": {
+            "kana": "\u30B8\u30E5\u30A6\u3001 \u30C1\u30E7\u30A6",
+            "romaji": "juu, chou"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u3082(\u3044)\u3001 \u304B\u3055(\u306D\u308B)",
+            "romaji": "omo(i), kasa(neru)"
+          }
+        },
+        {
+          "kanji": "\u8FD1",
+          "translation": "near, early, akin, tantamount",
+          "onyomi": {
+            "kana": "\u30AD\u30F3",
+            "romaji": "kin"
+          },
+          "kunyomi": {
+            "kana": "\u3061\u304B(\u3044)",
+            "romaji": "chika(i)"
+          }
+        },
+        {
+          "kanji": "\u8003",
+          "translation": "consider, think over",
+          "onyomi": {
+            "kana": "\u30B3\u30A6",
+            "romaji": "kou"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u3093\u304C(\u3048\u308B)",
+            "romaji": "kanga(eru)"
+          }
+        },
+        {
+          "kanji": "\u753B",
+          "translation": "brush-stroke, picture",
+          "onyomi": {
+            "kana": "\u30AC\u3001 \u30AB\u30AF",
+            "romaji": "ga, kaku"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u304F(\u3059\u308B)",
+            "romaji": "kaku(suru)"
+          }
+        },
+        {
+          "kanji": "\u6D77",
+          "translation": "sea, ocean",
+          "onyomi": {
+            "kana": "\u30AB\u30A4",
+            "romaji": "kai"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u307F",
+            "romaji": "umi"
+          }
+        },
+        {
+          "kanji": "\u58F2",
+          "translation": "sell",
+          "onyomi": {
+            "kana": "\u30D0\u30A4",
+            "romaji": "bai"
+          },
+          "kunyomi": {
+            "kana": "\u3046(\u308B)",
+            "romaji": "u(ru)"
+          }
+        },
+        {
+          "kanji": "\u77E5",
+          "translation": "know, wisdom",
+          "onyomi": {
+            "kana": "\u30C1",
+            "romaji": "chi"
+          },
+          "kunyomi": {
+            "kana": "\u3057(\u308B)",
+            "romaji": "shi(ru)"
+          }
+        },
+        {
+          "kanji": "\u9053",
+          "translation": "road-way, street, district, journey, course",
+          "onyomi": {
+            "kana": "\u30C9\u30A6",
+            "romaji": "dou"
+          },
+          "kunyomi": {
+            "kana": "\u307F\u3061",
+            "romaji": "michi"
+          }
+        },
+        {
+          "kanji": "\u96C6",
+          "translation": "gather, meet",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30A6",
+            "romaji": "shuu"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u3064(\u3081\u308B)",
+            "romaji": "atsu(meru)"
+          }
+        },
+        {
+          "kanji": "\u5225",
+          "translation": "separate, branch off, diverge",
+          "onyomi": {
+            "kana": "\u30D9\u30C4",
+            "romaji": "betsu"
+          },
+          "kunyomi": {
+            "kana": "\u308F\u304B(\u308C\u308B)\u3001 \u308F(\u3051\u308B)",
+            "romaji": "waka(reru), wa(keru)"
+          }
+        },
+        {
+          "kanji": "\u7269",
+          "translation": "thing, object, matter",
+          "onyomi": {
+            "kana": "\u30D6\u30C4\u3001 \u30E2\u30C4",
+            "romaji": "butsu, motsu"
+          },
+          "kunyomi": {
+            "kana": "\u3082\u306E",
+            "romaji": "mono"
+          }
+        },
+        {
+          "kanji": "\u4F7F",
+          "translation": "use, order, messenger, ambassador",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u3064\u304B(\u3046)",
+            "romaji": "tsuka(u)"
+          }
+        },
+        {
+          "kanji": "\u54C1",
+          "translation": "goods, refinement, dignity, article",
+          "onyomi": {
+            "kana": "\u30D2\u30F3",
+            "romaji": "hin"
+          },
+          "kunyomi": {
+            "kana": "\u3057\u306A",
+            "romaji": "shina"
+          }
+        },
+        {
+          "kanji": "\u8A08",
+          "translation": "plot, plan, scheme, measure",
+          "onyomi": {
+            "kana": "\u30B1\u30A4",
+            "romaji": "kei"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u304B(\u308B)",
+            "romaji": "haka(ru)"
+          }
+        },
+        {
+          "kanji": "\u6B7B",
+          "translation": "death, die",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u3057(\u306C)",
+            "romaji": "shi(nu)"
+          }
+        },
+        {
+          "kanji": "\u7279",
+          "translation": "special",
+          "onyomi": {
+            "kana": "\u30C8\u30AF",
+            "romaji": "toku"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u79C1",
+          "translation": "private, I, me",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u308F\u305F\u304F\u3057\u3001 \u308F\u305F\u3057",
+            "romaji": "watakushi, watashi"
+          }
+        },
+        {
+          "kanji": "\u59CB",
+          "translation": "commence, begin",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u3058(\u3081\u308B)",
+            "romaji": "haji(meru)"
+          }
+        },
+        {
+          "kanji": "\u671D",
+          "translation": "morning",
+          "onyomi": {
+            "kana": "\u30C1\u30E7\u30A6",
+            "romaji": "chou"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u3055",
+            "romaji": "asa"
+          }
+        },
+        {
+          "kanji": "\u904B",
+          "translation": "carry, luck, destiny, fate, transport",
+          "onyomi": {
+            "kana": "\u30A6\u30F3",
+            "romaji": "un"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u3053(\u3076)",
+            "romaji": "hako(bu)"
+          }
+        },
+        {
+          "kanji": "\u7D42",
+          "translation": "end, finish",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30A6",
+            "romaji": "shuu"
+          },
+          "kunyomi": {
+            "kana": "\u304A(\u308F\u308B)",
+            "romaji": "o(waru)"
+          }
+        },
+        {
+          "kanji": "\u53F0",
+          "translation": "pedestal, a stand, counter for machines and vehicles",
+          "onyomi": {
+            "kana": "\u30C0\u30A4\u3001 \u30BF\u30A4",
+            "romaji": "dai, tai"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u3066\u306A",
+            "romaji": "utena"
+          }
+        },
+        {
+          "kanji": "\u5E83",
+          "translation": "wide, broad, spacious",
+          "onyomi": {
+            "kana": "\u30B3\u30A6",
+            "romaji": "kou"
+          },
+          "kunyomi": {
+            "kana": "\u3072\u308D(\u3044)",
+            "romaji": "hiro(i)"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N4_4",
+      "kanjiList": [
+        {
+          "kanji": "\u4F4F",
+          "translation": "dwell, reside, live, inhabit",
+          "onyomi": {
+            "kana": "\u30B8\u30E5\u30A6\u3001 \u30C1\u30E5\u30A6",
+            "romaji": "juu, chuu"
+          },
+          "kunyomi": {
+            "kana": "\u3059(\u3080)",
+            "romaji": "su(mu)"
+          }
+        },
+        {
+          "kanji": "\u7121",
+          "translation": "nothingness, none, ain\u0027t, nothing, nil, not",
+          "onyomi": {
+            "kana": "\u30E0\u3001 \u30D6",
+            "romaji": "mu, bu"
+          },
+          "kunyomi": {
+            "kana": "\u306A(\u3044)",
+            "romaji": "na(i)"
+          }
+        },
+        {
+          "kanji": "\u771F",
+          "translation": "true, reality, Buddhist sect",
+          "onyomi": {
+            "kana": "\u30B7\u30F3",
+            "romaji": "shin"
+          },
+          "kunyomi": {
+            "kana": "\u307E\u3001 \u307E\u3053\u3068",
+            "romaji": "ma, makoto"
+          }
+        },
+        {
+          "kanji": "\u6709",
+          "translation": "possess, have, exist, happen",
+          "onyomi": {
+            "kana": "\u30E6\u30A6\u3001 \u30A6",
+            "romaji": "yuu, u"
+          },
+          "kunyomi": {
+            "kana": "\u3042(\u308B)",
+            "romaji": "a(ru)"
+          }
+        },
+        {
+          "kanji": "\u53E3",
+          "translation": "mouth",
+          "onyomi": {
+            "kana": "\u30B3\u30A6",
+            "romaji": "kou"
+          },
+          "kunyomi": {
+            "kana": "\u304F\u3061",
+            "romaji": "kuchi"
+          }
+        },
+        {
+          "kanji": "\u5C11",
+          "translation": "few, little",
+          "onyomi": {
+            "kana": "\u30B7\u30E7\u30A6",
+            "romaji": "shou"
+          },
+          "kunyomi": {
+            "kana": "\u3059\u304F(\u306A\u3044)\u3001 \u3059\u3053(\u3057)",
+            "romaji": "suku(nai), suko(shi)"
+          }
+        },
+        {
+          "kanji": "\u753A",
+          "translation": "town, village, block, street",
+          "onyomi": {
+            "kana": "\u30C1\u30E7\u30A6",
+            "romaji": "chou"
+          },
+          "kunyomi": {
+            "kana": "\u307E\u3061",
+            "romaji": "machi"
+          }
+        },
+        {
+          "kanji": "\u6599",
+          "translation": "fee, materials",
+          "onyomi": {
+            "kana": "\u30EA\u30E7\u30A6",
+            "romaji": "ryou"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u5DE5",
+          "translation": "craft, construction",
+          "onyomi": {
+            "kana": "\u30B3\u30A6\u3001 \u30AF\u3001 \u30B0",
+            "romaji": "kou, ku, gu"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u5EFA",
+          "translation": "build",
+          "onyomi": {
+            "kana": "\u30B1\u30F3\u3001 \u30B3\u30F3",
+            "romaji": "ken, kon"
+          },
+          "kunyomi": {
+            "kana": "\u305F(\u3066\u308B)",
+            "romaji": "ta(teru)"
+          }
+        },
+        {
+          "kanji": "\u7A7A",
+          "translation": "empty, sky, void, vacant, vacuum",
+          "onyomi": {
+            "kana": "\u30AF\u30A6",
+            "romaji": "kuu"
+          },
+          "kunyomi": {
+            "kana": "\u305D\u3089\u3001 \u304B\u3089\u3001 \u3042(\u304F)\u3001 \u3059(\u304F)\u3001 \u3080\u306A(\u3057\u3044)",
+            "romaji": "sora, kara, a(ku), su(ku), muna(shii)"
+          }
+        },
+        {
+          "kanji": "\u6025",
+          "translation": "hurry, emergency, sudden, steep",
+          "onyomi": {
+            "kana": "\u30AD\u30E5\u30A6",
+            "romaji": "kyuu"
+          },
+          "kunyomi": {
+            "kana": "\u3044\u305D(\u3050)",
+            "romaji": "iso(gu)"
+          }
+        },
+        {
+          "kanji": "\u6B62",
+          "translation": "stop, halt",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u3068(\u307E\u308B)\u3001 \u3068\u3069(\u307E\u308B)\u3001 \u3084(\u3081\u308B)\u3001 \u3088(\u3059)",
+            "romaji": "to(maru), todo(maru), ya(meru), yo(su)"
+          }
+        },
+        {
+          "kanji": "\u9001",
+          "translation": "escort, send",
+          "onyomi": {
+            "kana": "\u30BD\u30A6",
+            "romaji": "sou"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u304F(\u308B)",
+            "romaji": "oku(ru)"
+          }
+        },
+        {
+          "kanji": "\u5207",
+          "translation": "cut, cutoff, be sharp",
+          "onyomi": {
+            "kana": "\u30BB\u30C4\u3001 \u30B5\u30A4",
+            "romaji": "setsu, sai"
+          },
+          "kunyomi": {
+            "kana": "\u304D(\u308B)",
+            "romaji": "ki(ru)"
+          }
+        },
+        {
+          "kanji": "\u8EE2",
+          "translation": "revolve, turn around, change",
+          "onyomi": {
+            "kana": "\u30C6\u30F3",
+            "romaji": "ten"
+          },
+          "kunyomi": {
+            "kana": "\u3053\u308D(\u304C\u308B)",
+            "romaji": "koro(garu)"
+          }
+        },
+        {
+          "kanji": "\u7814",
+          "translation": "polish, study of, sharpen",
+          "onyomi": {
+            "kana": "\u30B1\u30F3",
+            "romaji": "ken"
+          },
+          "kunyomi": {
+            "kana": "\u3068(\u3050)",
+            "romaji": "to(gu)"
+          }
+        },
+        {
+          "kanji": "\u8DB3",
+          "translation": "leg, foot, be sufficient",
+          "onyomi": {
+            "kana": "\u30BD\u30AF",
+            "romaji": "soku"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u3057\u3001 \u305F(\u308A\u308B)",
+            "romaji": "ashi, ta(riru)"
+          }
+        },
+        {
+          "kanji": "\u7A76",
+          "translation": "research, study",
+          "onyomi": {
+            "kana": "\u30AD\u30E5\u30A6",
+            "romaji": "kyuu"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u697D",
+          "translation": "music, comfort, ease",
+          "onyomi": {
+            "kana": "\u30AC\u30AF\u3001 \u30E9\u30AF",
+            "romaji": "gaku, raku"
+          },
+          "kunyomi": {
+            "kana": "\u305F\u306E(\u3057\u3044)",
+            "romaji": "tano(shii)"
+          }
+        },
+        {
+          "kanji": "\u8D77",
+          "translation": "\u0022wake up, get up",
+          "onyomi": {
+            "kana": "\u30AD",
+            "romaji": "ki"
+          },
+          "kunyomi": {
+            "kana": "\u304A(\u304D\u308B)\u3001 \u304A\u3053(\u3059)",
+            "romaji": "o(kiru), oko(su)"
+          }
+        },
+        {
+          "kanji": "\u7740",
+          "translation": "arrive, wear, counter for suits of clothing",
+          "onyomi": {
+            "kana": "\u30C1\u30E3\u30AF",
+            "romaji": "chaku"
+          },
+          "kunyomi": {
+            "kana": "\u304D(\u308B)\u3001\u3064(\u304F)",
+            "romaji": "ki(ru), tsu(ku)"
+          }
+        },
+        {
+          "kanji": "\u5E97",
+          "translation": "store, shop",
+          "onyomi": {
+            "kana": "\u30C6\u30F3",
+            "romaji": "ten"
+          },
+          "kunyomi": {
+            "kana": "\u307F\u305B",
+            "romaji": "mise"
+          }
+        },
+        {
+          "kanji": "\u75C5",
+          "translation": "ill, sick",
+          "onyomi": {
+            "kana": "\u30D3\u30E7\u30A6",
+            "romaji": "byou"
+          },
+          "kunyomi": {
+            "kana": "\u3084(\u3080)",
+            "romaji": "ya(mu)"
+          }
+        },
+        {
+          "kanji": "\u8CEA",
+          "translation": "substance, quality, matter, temperament",
+          "onyomi": {
+            "kana": "\u30B7\u30C4\u3001 \u30B7\u30C1",
+            "romaji": "shitsu, shichi"
+          },
+          "kunyomi": {
+            "kana": "\u305F\u3061\u3001 \u305F\u3060(\u3059)",
+            "romaji": "tachi, tada(su)"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N4_5",
+      "kanjiList": [
+        {
+          "kanji": "\u5F85",
+          "translation": "wait, depend on",
+          "onyomi": {
+            "kana": "\u30BF\u30A4",
+            "romaji": "tai"
+          },
+          "kunyomi": {
+            "kana": "\u307E(\u3064)",
+            "romaji": "ma(tsu)"
+          }
+        },
+        {
+          "kanji": "\u8A66",
+          "translation": "test, try, attempt, experiment",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u3053\u3053\u308D(\u307F\u308B)\u3001 \u305F\u3081(\u3059)",
+            "romaji": "kokoro(miru), tame(su)"
+          }
+        },
+        {
+          "kanji": "\u65CF",
+          "translation": "tribe, family",
+          "onyomi": {
+            "kana": "\u30BE\u30AF",
+            "romaji": "zoku"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u9280",
+          "translation": "silver",
+          "onyomi": {
+            "kana": "\u30AE\u30F3",
+            "romaji": "gin"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u65E9",
+          "translation": "early, fast",
+          "onyomi": {
+            "kana": "\u30BD\u30A6\u3001 \u30B5\u30C3",
+            "romaji": "sou, sa"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u3084(\u3044)",
+            "romaji": "haya(i)"
+          }
+        },
+        {
+          "kanji": "\u6620",
+          "translation": "reflect, reflection, projection",
+          "onyomi": {
+            "kana": "\u30A8\u30A4",
+            "romaji": "ei"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u3064(\u308B)\u3001 \u306F(\u3048\u308B)",
+            "romaji": "utsu(ru), ha(eru)"
+          }
+        },
+        {
+          "kanji": "\u89AA",
+          "translation": "parent, intimacy, relative, familiarity",
+          "onyomi": {
+            "kana": "\u30B7\u30F3",
+            "romaji": "shin"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u3084\u3001 \u3057\u305F(\u3057\u3044)",
+            "romaji": "oya, shita(shii)"
+          }
+        },
+        {
+          "kanji": "\u9A13",
+          "translation": "verification, effect, testing",
+          "onyomi": {
+            "kana": "\u30B1\u30F3",
+            "romaji": "ken"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u82F1",
+          "translation": "England, English, hero, outstanding",
+          "onyomi": {
+            "kana": "\u30A8\u30A4",
+            "romaji": "ei"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u533B",
+          "translation": "doctor, medicine",
+          "onyomi": {
+            "kana": "\u30A4",
+            "romaji": "i"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u4ED5",
+          "translation": "attend, doing, official, serve",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u53BB",
+          "translation": "gone, past, quit, leave, elapse, eliminate",
+          "onyomi": {
+            "kana": "\u30AD\u30E7\u3001 \u30B3",
+            "romaji": "kyo, ko"
+          },
+          "kunyomi": {
+            "kana": "\u3055(\u308B)",
+            "romaji": "sa(ru)"
+          }
+        },
+        {
+          "kanji": "\u5473",
+          "translation": "flavor, taste",
+          "onyomi": {
+            "kana": "\u30DF",
+            "romaji": "mi"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u3058",
+            "romaji": "aji"
+          }
+        },
+        {
+          "kanji": "\u5199",
+          "translation": "copy, be photographed, describe",
+          "onyomi": {
+            "kana": "\u30B7\u30E3",
+            "romaji": "sha"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u3064(\u308B)",
+            "romaji": "utsuru"
+          }
+        },
+        {
+          "kanji": "\u5B57",
+          "translation": "character, letter, word",
+          "onyomi": {
+            "kana": "\u30B8",
+            "romaji": "ji"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u7B54",
+          "translation": "solution, answer",
+          "onyomi": {
+            "kana": "\u30C8\u30A6",
+            "romaji": "tou"
+          },
+          "kunyomi": {
+            "kana": "\u3053\u305F(\u3048\u308B)",
+            "romaji": "kota(eru)"
+          }
+        },
+        {
+          "kanji": "\u591C",
+          "translation": "night, evening",
+          "onyomi": {
+            "kana": "\u30E4",
+            "romaji": "ya"
+          },
+          "kunyomi": {
+            "kana": "\u3088\u3001 \u3088\u308B",
+            "romaji": "yo, yoru"
+          }
+        },
+        {
+          "kanji": "\u97F3",
+          "translation": "sound, noise",
+          "onyomi": {
+            "kana": "\u30AA\u30F3",
+            "romaji": "on"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u3068\u3001 \u306D",
+            "romaji": "oto, ne"
+          }
+        },
+        {
+          "kanji": "\u6CE8",
+          "translation": "pour, irrigate, shed (tears), flow into, concentrate on",
+          "onyomi": {
+            "kana": "\u30C1\u30E5\u30A6",
+            "romaji": "chuu"
+          },
+          "kunyomi": {
+            "kana": "\u305D\u305D(\u3050)\u3001 \u3055(\u3059)\u3001 \u3064(\u3050)",
+            "romaji": "soso(gu), sa(su), tsu(gu)"
+          }
+        },
+        {
+          "kanji": "\u5E30",
+          "translation": "homecoming, arrive at, lead to, result in",
+          "onyomi": {
+            "kana": "\u30AD",
+            "romaji": "ki"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u3048(\u308B)\u3001 \u304B\u3048(\u3059)",
+            "romaji": "kae(ru), kae(su)"
+          }
+        },
+        {
+          "kanji": "\u53E4",
+          "translation": "old",
+          "onyomi": {
+            "kana": "\u30B3",
+            "romaji": "ko"
+          },
+          "kunyomi": {
+            "kana": "\u3075\u308B(\u3044)",
+            "romaji": "furu(i)"
+          }
+        },
+        {
+          "kanji": "\u6B4C",
+          "translation": "song, sing",
+          "onyomi": {
+            "kana": "\u30AB",
+            "romaji": "ka"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u305F\u3001 \u3046\u305F(\u3046)",
+            "romaji": "uta, uta(u)"
+          }
+        },
+        {
+          "kanji": "\u8CB7",
+          "translation": "buy",
+          "onyomi": {
+            "kana": "\u30D0\u30A4",
+            "romaji": "bai"
+          },
+          "kunyomi": {
+            "kana": "\u304B(\u3046)",
+            "romaji": "ka(u)"
+          }
+        },
+        {
+          "kanji": "\u60AA",
+          "translation": "bad, evil, wrong",
+          "onyomi": {
+            "kana": "\u30A2\u30AF",
+            "romaji": "aku"
+          },
+          "kunyomi": {
+            "kana": "\u308F\u308B(\u3044)",
+            "romaji": "waru(i)"
+          }
+        },
+        {
+          "kanji": "\u56F3",
+          "translation": "map, drawing, plan, extraordinary",
+          "onyomi": {
+            "kana": "\u30BA\u3001 \u30C8",
+            "romaji": "zu, to"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u304B(\u308B)",
+            "romaji": "haka(ru)"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N4_6",
+      "kanjiList": [
+        {
+          "kanji": "\u9031",
+          "translation": "week",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30A6",
+            "romaji": "shuu"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u5BA4",
+          "translation": "room, apartment, chamber, greenhouse, cellar",
+          "onyomi": {
+            "kana": "\u30B7\u30C4",
+            "romaji": "shitsu"
+          },
+          "kunyomi": {
+            "kana": "\u3080\u308D",
+            "romaji": "muro"
+          }
+        },
+        {
+          "kanji": "\u6B69",
+          "translation": "walk, counter for steps",
+          "onyomi": {
+            "kana": "\u30DB\u3001 \u30D6",
+            "romaji": "ho, bu"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u308B(\u304F)\u3001 \u3042\u3086(\u3080)",
+            "romaji": "aru(ku), ayu(mu)"
+          }
+        },
+        {
+          "kanji": "\u98A8",
+          "translation": "wind, air, style, manner",
+          "onyomi": {
+            "kana": "\u30D5\u30A6\u3001 \u30D5",
+            "romaji": "fuu, fu"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u305C\u3001 \u304B\u3056-",
+            "romaji": "kaze, kaza-"
+          }
+        },
+        {
+          "kanji": "\u7D19",
+          "translation": "paper",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u304B\u307F",
+            "romaji": "kami"
+          }
+        },
+        {
+          "kanji": "\u9ED2",
+          "translation": "black",
+          "onyomi": {
+            "kana": "\u30B3\u30AF",
+            "romaji": "koku"
+          },
+          "kunyomi": {
+            "kana": "\u304F\u308D",
+            "romaji": "kuro"
+          }
+        },
+        {
+          "kanji": "\u82B1",
+          "translation": "flower",
+          "onyomi": {
+            "kana": "\u30AB\u3001 \u30B1",
+            "romaji": "ka, ke"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u306A",
+            "romaji": "hana"
+          }
+        },
+        {
+          "kanji": "\u6625",
+          "translation": "spring",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30F3",
+            "romaji": "shun"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u308B",
+            "romaji": "haru"
+          }
+        },
+        {
+          "kanji": "\u8D64",
+          "translation": "red",
+          "onyomi": {
+            "kana": "\u30BB\u30AD\u3001 \u30B7\u30E3\u30AF",
+            "romaji": "seki, shaku"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u304B(\u3044)",
+            "romaji": "aka(i)"
+          }
+        },
+        {
+          "kanji": "\u9752",
+          "translation": "blue",
+          "onyomi": {
+            "kana": "\u30BB\u30A4\u3001 \u30B7\u30E7\u30A6",
+            "romaji": "sei, shou"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u304A(\u3044)",
+            "romaji": "ao(i)"
+          }
+        },
+        {
+          "kanji": "\u9928",
+          "translation": "building, mansion, large building, palace",
+          "onyomi": {
+            "kana": "\u30AB\u30F3",
+            "romaji": "kan"
+          },
+          "kunyomi": {
+            "kana": "\u3084\u304B\u305F",
+            "romaji": "yakata"
+          }
+        },
+        {
+          "kanji": "\u5C4B",
+          "translation": "roof, house, shop, dealer, seller",
+          "onyomi": {
+            "kana": "\u30AA\u30AF",
+            "romaji": "oku"
+          },
+          "kunyomi": {
+            "kana": "\u3084",
+            "romaji": "ya"
+          }
+        },
+        {
+          "kanji": "\u8272",
+          "translation": "color",
+          "onyomi": {
+            "kana": "\u30B7\u30E7\u30AF\u3001 \u30B7\u30AD",
+            "romaji": "shoku, shiki"
+          },
+          "kunyomi": {
+            "kana": "\u3044\u308D",
+            "romaji": "iro"
+          }
+        },
+        {
+          "kanji": "\u8D70",
+          "translation": "run",
+          "onyomi": {
+            "kana": "\u30BD\u30A6",
+            "romaji": "sou"
+          },
+          "kunyomi": {
+            "kana": "\u306F\u3057(\u308B)",
+            "romaji": "hashi(ru)"
+          }
+        },
+        {
+          "kanji": "\u79CB",
+          "translation": "autumn, fall",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30A6",
+            "romaji": "shuu"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u304D",
+            "romaji": "aki"
+          }
+        },
+        {
+          "kanji": "\u590F",
+          "translation": "summer",
+          "onyomi": {
+            "kana": "\u30AB\u3001 \u30B2",
+            "romaji": "ka, ge"
+          },
+          "kunyomi": {
+            "kana": "\u306A\u3064",
+            "romaji": "natsu"
+          }
+        },
+        {
+          "kanji": "\u7FD2",
+          "translation": "learn",
+          "onyomi": {
+            "kana": "\u30B7\u30E5\u30A6",
+            "romaji": "shuu"
+          },
+          "kunyomi": {
+            "kana": "\u306A\u3089(\u3046)",
+            "romaji": "nara(u)"
+          }
+        },
+        {
+          "kanji": "\u99C5",
+          "translation": "station",
+          "onyomi": {
+            "kana": "\u30A8\u30AD",
+            "romaji": "eki"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u6D0B",
+          "translation": "ocean, sea, foreign, Western style",
+          "onyomi": {
+            "kana": "\u30E8\u30A6",
+            "romaji": "you"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u65C5",
+          "translation": "trip, travel",
+          "onyomi": {
+            "kana": "\u30EA\u30E7",
+            "romaji": "ryo"
+          },
+          "kunyomi": {
+            "kana": "\u305F\u3073",
+            "romaji": "tabi"
+          }
+        },
+        {
+          "kanji": "\u670D",
+          "translation": "clothing, admit, obey",
+          "onyomi": {
+            "kana": "\u30D5\u30AF",
+            "romaji": "fuku"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u5915",
+          "translation": "evening",
+          "onyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          },
+          "kunyomi": {
+            "kana": "\u3086\u3046",
+            "romaji": "yuu"
+          }
+        },
+        {
+          "kanji": "\u501F",
+          "translation": "borrow, rent",
+          "onyomi": {
+            "kana": "\u30B7\u30E3\u30AF",
+            "romaji": "shaku"
+          },
+          "kunyomi": {
+            "kana": "\u304B(\u308A\u308B)",
+            "romaji": "ka(riru)"
+          }
+        },
+        {
+          "kanji": "\u66DC",
+          "translation": "weekday",
+          "onyomi": {
+            "kana": "\u30E8\u30A6",
+            "romaji": "you"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u98F2",
+          "translation": "drink",
+          "onyomi": {
+            "kana": "\u30A4\u30F3",
+            "romaji": "in"
+          },
+          "kunyomi": {
+            "kana": "\u306E(\u3080)",
+            "romaji": "no(mu)"
+          }
+        }
+      ]
+    },
+    {
+      "subsection": "N4_7",
+      "kanjiList": [
+        {
+          "kanji": "\u8089",
+          "translation": "meat",
+          "onyomi": {
+            "kana": "\u30CB\u30AF",
+            "romaji": "niku"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u8CB8",
+          "translation": "lend",
+          "onyomi": {
+            "kana": "\u30BF\u30A4",
+            "romaji": "tai"
+          },
+          "kunyomi": {
+            "kana": "\u304B(\u3059)\u3001 \u304B\u3057",
+            "romaji": "ka(su), kashi"
+          }
+        },
+        {
+          "kanji": "\u5802",
+          "translation": "public chamber, hall",
+          "onyomi": {
+            "kana": "\u30C9\u30A6",
+            "romaji": "dou"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u9CE5",
+          "translation": "bird, chicken",
+          "onyomi": {
+            "kana": "\u30C1\u30E7\u30A6",
+            "romaji": "chou"
+          },
+          "kunyomi": {
+            "kana": "\u3068\u308A",
+            "romaji": "tori"
+          }
+        },
+        {
+          "kanji": "\u98EF",
+          "translation": "meal, rice",
+          "onyomi": {
+            "kana": "\u30CF\u30F3",
+            "romaji": "han"
+          },
+          "kunyomi": {
+            "kana": "\u3081\u3057",
+            "romaji": "meshi"
+          }
+        },
+        {
+          "kanji": "\u52C9",
+          "translation": "exertion, endeavor, effort",
+          "onyomi": {
+            "kana": "\u30D9\u30F3",
+            "romaji": "ben"
+          },
+          "kunyomi": {
+            "kana": "\u3064\u3068(\u3081\u308B)",
+            "romaji": "tsuto(meru)"
+          }
+        },
+        {
+          "kanji": "\u51AC",
+          "translation": "winter",
+          "onyomi": {
+            "kana": "\u30C8\u30A6",
+            "romaji": "tou"
+          },
+          "kunyomi": {
+            "kana": "\u3075\u3086",
+            "romaji": "fuyu"
+          }
+        },
+        {
+          "kanji": "\u663C",
+          "translation": "daytime, noon",
+          "onyomi": {
+            "kana": "\u30C1\u30E5\u30A6",
+            "romaji": "chuu"
+          },
+          "kunyomi": {
+            "kana": "\u3072\u308B",
+            "romaji": "hiru"
+          }
+        },
+        {
+          "kanji": "\u8336",
+          "translation": "tea",
+          "onyomi": {
+            "kana": "\u30C1\u30E3\u3001 \u30B5",
+            "romaji": "cha, sa"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        },
+        {
+          "kanji": "\u5F1F",
+          "translation": "younger brother",
+          "onyomi": {
+            "kana": "\u30C6\u30A4\u3001 \u30C0\u30A4\u3001 \u30C7",
+            "romaji": "tei, dai, de"
+          },
+          "kunyomi": {
+            "kana": "\u304A\u3068\u3046\u3068",
+            "romaji": "otouto"
+          }
+        },
+        {
+          "kanji": "\u725B",
+          "translation": "cow",
+          "onyomi": {
+            "kana": "\u30AE\u30E5\u30A6",
+            "romaji": "gyuu"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u3057",
+            "romaji": "ushi"
+          }
+        },
+        {
+          "kanji": "\u9B5A",
+          "translation": "fish",
+          "onyomi": {
+            "kana": "\u30AE\u30E7",
+            "romaji": "gyo"
+          },
+          "kunyomi": {
+            "kana": "\u3046\u304A\u3001 \u3055\u304B\u306A",
+            "romaji": "uo, sakana"
+          }
+        },
+        {
+          "kanji": "\u5144",
+          "translation": "elder brother",
+          "onyomi": {
+            "kana": "\u30AD\u30E7\u30A6\u3001 \u30B1\u30A4",
+            "romaji": "kyou, kei"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u306B",
+            "romaji": "ani"
+          }
+        },
+        {
+          "kanji": "\u72AC",
+          "translation": "dog",
+          "onyomi": {
+            "kana": "\u30B1\u30F3",
+            "romaji": "ken"
+          },
+          "kunyomi": {
+            "kana": "\u3044\u306C",
+            "romaji": "inu"
+          }
+        },
+        {
+          "kanji": "\u59B9",
+          "translation": "younger sister",
+          "onyomi": {
+            "kana": "\u30DE\u30A4",
+            "romaji": "mai"
+          },
+          "kunyomi": {
+            "kana": "\u3044\u3082\u3046\u3068",
+            "romaji": "imouto"
+          }
+        },
+        {
+          "kanji": "\u59C9",
+          "translation": "elder sister",
+          "onyomi": {
+            "kana": "\u30B7",
+            "romaji": "shi"
+          },
+          "kunyomi": {
+            "kana": "\u3042\u306D",
+            "romaji": "ane"
+          }
+        },
+        {
+          "kanji": "\u6F22",
+          "translation": "China",
+          "onyomi": {
+            "kana": "\u30AB\u30F3",
+            "romaji": "kan"
+          },
+          "kunyomi": {
+            "kana": "\u7A7A",
+            "romaji": "empty"
+          }
+        }
+      ]
+    }
+  ]
+}
