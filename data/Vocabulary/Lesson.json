@@ -1,0 +1,1092 @@
+{
+  "section": "Lesson",
+  "vocSubsectionList": [
+    {
+      "subsection": "Lesson_01",
+      "vocabularyList": [
+        {
+          "japaneseWord": {
+            "kana": "\u304B",
+            "romaji": "ka",
+            "kanji": "\u304B"
+          },
+          "translation": "question particle",
+          "type": "suffix"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3069\u3061\u3089",
+            "romaji": "dochira",
+            "kanji": "\u3069\u3061\u3089"
+          },
+          "translation": "(polite) where / which",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u307E\u3057\u305F",
+            "romaji": "kimashita",
+            "kanji": "\u6765\u307E\u3057\u305F"
+          },
+          "translation": "came / has come / it\u0027s here",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3069\u3053",
+            "romaji": "doko",
+            "kanji": "\u3069\u3053"
+          },
+          "translation": "(casual) where",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3067\u3059",
+            "romaji": "desu",
+            "kanji": "\u3067\u3059"
+          },
+          "translation": "to be (polite)",
+          "type": "copula"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3059\u307E\u3044",
+            "romaji": "osumai",
+            "kanji": "\u304A\u4F4F\u307E\u3044"
+          },
+          "translation": "address / residence",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u304F\u306B",
+            "romaji": "okuni",
+            "kanji": "\u304A\u56FD"
+          },
+          "translation": "country (polite)",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3069\u3046\u305E / \u304A\u306D\u304C\u3044\u3057\u307E\u3059",
+            "romaji": "douzo / onegaishimasu",
+            "kanji": "\u3069\u3046\u305E / \u304A\u9858\u3044\u3057\u307E\u3059"
+          },
+          "translation": "please",
+          "type": "expression"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306F\u3058\u3081\u307E\u3057\u3066",
+            "romaji": "hajimemashite",
+            "kanji": "\u306F\u3058\u3081\u307E\u3057\u3066"
+          },
+          "translation": "nice to meet you",
+          "type": "expression"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3088\u308D\u3057\u304F\u304A\u306D\u304C\u3044\u3057\u307E\u3059",
+            "romaji": "yoroshiku onegaishimasu",
+            "kanji": "\u3088\u308D\u3057\u304F\u304A\u9858\u3044\u3057\u307E\u3059"
+          },
+          "translation": "thank you in advance / nice to meet you",
+          "type": "sentence"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3061\u304B\u3044",
+            "romaji": "chikai",
+            "kanji": "\u8FD1\u3044"
+          },
+          "translation": "close",
+          "type": "adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3068\u304A\u3044",
+            "romaji": "tooi",
+            "kanji": "\u9060\u3044"
+          },
+          "translation": "far",
+          "type": "adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3053\u3053",
+            "romaji": "koko",
+            "kanji": "\u3053\u3053"
+          },
+          "translation": "here",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3072\u3068",
+            "romaji": "hito",
+            "kanji": "\u4EBA"
+          },
+          "translation": "person",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "~ \u306B\u3093",
+            "romaji": "nin",
+            "kanji": " \uFF5E\u4EBA"
+          },
+          "translation": "counter for people",
+          "type": "suffix"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3044\u304F\u3064\u3067\u3059\u304B",
+            "romaji": "oikutsu desu ka",
+            "kanji": "\u304A\u3044\u304F\u3064\u3067\u3059\u304B"
+          },
+          "translation": "(polite) how old are you?",
+          "type": "sentence"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3068\u3066\u3082",
+            "romaji": "totemo",
+            "kanji": "\u3068\u3066\u3082"
+          },
+          "translation": "very",
+          "type": "adverb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306B\u307B\u3093",
+            "romaji": "nihon",
+            "kanji": "\u65E5\u672C"
+          },
+          "translation": "Japan",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3054\u304B\u305E\u304F",
+            "romaji": "go-kazoku",
+            "kanji": "\u3054\u5BB6\u65CF"
+          },
+          "translation": "family (polite)",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u308F\u305F\u3057",
+            "romaji": "watashi",
+            "kanji": "\u79C1"
+          },
+          "translation": "I / me",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306A\u306B",
+            "romaji": "nani",
+            "kanji": "\u4F55"
+          },
+          "translation": "what",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306A\u3093\u306B\u3093",
+            "romaji": "nannin",
+            "kanji": "\u4F55\u4EBA"
+          },
+          "translation": "how many people",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3053\u308C",
+            "romaji": "kore",
+            "kanji": "\u3053\u308C"
+          },
+          "translation": "this (near me)",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u305D\u308C",
+            "romaji": "sore",
+            "kanji": "\u305D\u308C"
+          },
+          "translation": "that (near you)",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3042\u308C",
+            "romaji": "are",
+            "kanji": "\u3042\u308C"
+          },
+          "translation": "that (far from both)",
+          "type": "pronoun"
+        }
+      ]
+    },
+    {
+      "subsection": "Lesson_02",
+      "vocabularyList": [
+        {
+          "japaneseWord": {
+            "kana": "\u3060\u308C",
+            "romaji": "dare",
+            "kanji": "\u8AB0"
+          },
+          "translation": "who",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3059\u304D",
+            "romaji": "suki",
+            "kanji": "\u597D\u304D"
+          },
+          "translation": "like",
+          "type": "adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3069\u3093\u306A",
+            "romaji": "donna",
+            "kanji": "\u3069\u3093\u306A"
+          },
+          "translation": "what kind",
+          "type": "determiner"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3055\u3044",
+            "romaji": "sai",
+            "kanji": "\u6B73 / \u624D"
+          },
+          "translation": "years (age)",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u304F\u306B",
+            "romaji": "okuni",
+            "kanji": "\u304A\u56FD"
+          },
+          "translation": "country (polite)",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\uFF5E\u3077\u3093",
+            "romaji": "ppun",
+            "kanji": "\uFF5E\u5206"
+          },
+          "translation": "minutes (1/6/8/10 etc.)",
+          "type": "counter"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\uFF5E\u3075\u3093",
+            "romaji": "fun",
+            "kanji": "\uFF5E\u5206"
+          },
+          "translation": "minutes (2/5 etc.)",
+          "type": "counter"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\uFF5E\u3077\u3093",
+            "romaji": "npun",
+            "kanji": "\uFF5E\u5206"
+          },
+          "translation": "minutes (3/4 etc.)",
+          "type": "counter"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306F\u3093",
+            "romaji": "han",
+            "kanji": "\u534A"
+          },
+          "translation": "half / half past",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306B\u3058\u3085\u3046\u3088\u3058\u304B\u3093",
+            "romaji": "nijuuyojikan",
+            "kanji": "\u4E8C\u5341\u56DB\u6642\u9593"
+          },
+          "translation": "24 hours",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3058\u3085\u304E\u3087\u3046",
+            "romaji": "jugyoo",
+            "kanji": "\u6388\u696D"
+          },
+          "translation": "class",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3044\u304F\u3089",
+            "romaji": "ikura",
+            "kanji": "\u3044\u304F\u3089"
+          },
+          "translation": "how much?",
+          "type": "pronoun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3058\u3085\u304E\u3087\u3046\u306F\u306A\u3093\u3058\u304B\u3089\u306A\u3093\u3058\u307E\u3067\u3067\u3059\u304B",
+            "romaji": "jugyoo wa nanji kara nanji made desu ka",
+            "kanji": "\u6388\u696D\u306F\u4F55\u6642\u304B\u3089\u4F55\u6642\u307E\u3067\u3067\u3059\u304B"
+          },
+          "translation": "When does class begin and end?",
+          "type": "sentence"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304C\u3063\u3053\u3046\u304B\u3089\u3044\u3048\u307E\u3067\u306A\u3093\u3077\u3093\u3067\u3059\u304B",
+            "romaji": "gakkou kara ie made nanpun desu ka",
+            "kanji": "\u5B66\u6821\u304B\u3089\u5BB6\u307E\u3067\u4F55\u5206\u3067\u3059\u304B"
+          },
+          "translation": "how many minutes from school to home?",
+          "type": "sentence"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3057\u307E\u3059",
+            "romaji": "shimasu",
+            "kanji": "\u3057\u307E\u3059"
+          },
+          "translation": "to do",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u305F\u3079\u307E\u3059",
+            "romaji": "tabemasu",
+            "kanji": "\u98DF\u3079\u307E\u3059"
+          },
+          "translation": "to eat",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u307F\u307E\u3059",
+            "romaji": "mimasu",
+            "kanji": "\u898B\u307E\u3059"
+          },
+          "translation": "to watch / see",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306E\u307F\u307E\u3059",
+            "romaji": "nomimasu",
+            "kanji": "\u98F2\u307F\u307E\u3059"
+          },
+          "translation": "to drink",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u304D\u307E\u3059",
+            "romaji": "okimasu",
+            "kanji": "\u8D77\u304D\u307E\u3059"
+          },
+          "translation": "to wake up",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306D\u307E\u3059",
+            "romaji": "nemasu",
+            "kanji": "\u5BDD\u307E\u3059"
+          },
+          "translation": "to sleep",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u304D\u307E\u3059",
+            "romaji": "kikimasu",
+            "kanji": "\u805E\u304D\u307E\u3059"
+          },
+          "translation": "to listen / hear",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3059\u304D\u306A",
+            "romaji": "suki na",
+            "kanji": "\u597D\u304D\u306A"
+          },
+          "translation": "liked / favorite",
+          "type": "na-adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3088\u307F\u307E\u3059",
+            "romaji": "yomimasu",
+            "kanji": "\u8AAD\u307F\u307E\u3059"
+          },
+          "translation": "to read",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306F\u306A\u3057\u307E\u3059",
+            "romaji": "hanashimasu",
+            "kanji": "\u8A71\u3057\u307E\u3059"
+          },
+          "translation": "to speak",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3044\u304D\u307E\u3059",
+            "romaji": "ikimasu",
+            "kanji": "\u884C\u304D\u307E\u3059"
+          },
+          "translation": "to go",
+          "type": "verb"
+        }
+      ]
+    },
+    {
+      "subsection": "Lesson_03",
+      "vocabularyList": [
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u307E\u3059",
+            "romaji": "kimasu",
+            "kanji": "\u6765\u307E\u3059"
+          },
+          "translation": "to come",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304B\u3048\u308A\u307E\u3059",
+            "romaji": "kaerimasu",
+            "kanji": "\u5E30\u308A\u307E\u3059"
+          },
+          "translation": "to go home",
+          "type": "verb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3058\u3044\u3055\u3093",
+            "romaji": "ojiisan",
+            "kanji": "\u304A\u3058\u3044\u3055\u3093"
+          },
+          "translation": "grandfather",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3070\u3042\u3055\u3093",
+            "romaji": "obaasan",
+            "kanji": "\u304A\u3070\u3042\u3055\u3093"
+          },
+          "translation": "grandmother",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3068\u3046\u3055\u3093",
+            "romaji": "otousan",
+            "kanji": "\u304A\u7236\u3055\u3093"
+          },
+          "translation": "father",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u304B\u3042\u3055\u3093",
+            "romaji": "okaasan",
+            "kanji": "\u304A\u6BCD\u3055\u3093"
+          },
+          "translation": "mother",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u306B\u3044\u3055\u3093",
+            "romaji": "oniisan",
+            "kanji": "\u304A\u5144\u3055\u3093"
+          },
+          "translation": "older brother",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u306D\u3048\u3055\u3093",
+            "romaji": "oneesan",
+            "kanji": "\u304A\u59C9\u3055\u3093"
+          },
+          "translation": "older sister",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3044\u3082\u3046\u3068",
+            "romaji": "imouto",
+            "kanji": "\u59B9"
+          },
+          "translation": "younger sister",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3068\u3046\u3068",
+            "romaji": "otouto",
+            "kanji": "\u5F1F"
+          },
+          "translation": "younger brother",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3080\u3059\u3053",
+            "romaji": "musuko",
+            "kanji": "\u606F\u5B50"
+          },
+          "translation": "son",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3080\u3059\u3081",
+            "romaji": "musume",
+            "kanji": "\u5A18"
+          },
+          "translation": "daughter",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3072\u3068\u308A",
+            "romaji": "hitori",
+            "kanji": "\u4E00\u4EBA"
+          },
+          "translation": "1 person",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3075\u305F\u308A",
+            "romaji": "futari",
+            "kanji": "\u4E8C\u4EBA"
+          },
+          "translation": "2 people",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3068",
+            "romaji": "to",
+            "kanji": "\u3068"
+          },
+          "translation": "and (complete list)",
+          "type": "particle"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3084",
+            "romaji": "ya",
+            "kanji": "\u3084"
+          },
+          "translation": "and (examples)",
+          "type": "particle"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3046\u3048",
+            "romaji": "ue",
+            "kanji": "\u4E0A"
+          },
+          "translation": "up / above",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3044\u3044\u3048",
+            "romaji": "iie",
+            "kanji": "\u3044\u3044\u3048"
+          },
+          "translation": "no",
+          "type": "expression"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3042\u304B",
+            "romaji": "aka",
+            "kanji": "\u8D64"
+          },
+          "translation": "red",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3042\u304A",
+            "romaji": "ao",
+            "kanji": "\u9752"
+          },
+          "translation": "blue",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304B\u304E",
+            "romaji": "kagi",
+            "kanji": "\u9375"
+          },
+          "translation": "key",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u304B\u3044",
+            "romaji": "kikai",
+            "kanji": "\u6A5F\u68B0"
+          },
+          "translation": "machine",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3048\u304D",
+            "romaji": "eki",
+            "kanji": "\u99C5"
+          },
+          "translation": "station",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304B\u3055",
+            "romaji": "kasa",
+            "kanji": "\u5098"
+          },
+          "translation": "umbrella",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3057\u304A",
+            "romaji": "shio",
+            "kanji": "\u5869"
+          },
+          "translation": "salt",
+          "type": "noun"
+        }
+      ]
+    },
+    {
+      "subsection": "Lesson_04",
+      "vocabularyList": [
+        {
+          "japaneseWord": {
+            "kana": "\u305B\u304B\u3044",
+            "romaji": "sekai",
+            "kanji": "\u4E16\u754C"
+          },
+          "translation": "world",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3059\u3053\u3057",
+            "romaji": "sukoshi",
+            "kanji": "\u5C11\u3057"
+          },
+          "translation": "a little",
+          "type": "adverb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3046\u305F",
+            "romaji": "uta",
+            "kanji": "\u6B4C"
+          },
+          "translation": "song",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u305F\u3044\u305B\u3064",
+            "romaji": "taisetsu",
+            "kanji": "\u5927\u5207"
+          },
+          "translation": "important",
+          "type": "na-adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3061\u304B\u3066\u3064",
+            "romaji": "chikatetsu",
+            "kanji": "\u5730\u4E0B\u9244"
+          },
+          "translation": "subway",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3068\u3068\u3044",
+            "romaji": "ototoi",
+            "kanji": "\u4E00\u6628\u65E5"
+          },
+          "translation": "day before yesterday",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3044\u306C",
+            "romaji": "inu",
+            "kanji": "\u72AC"
+          },
+          "translation": "dog",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306D\u3053",
+            "romaji": "neko",
+            "kanji": "\u732B"
+          },
+          "translation": "cat",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u304B\u306D",
+            "romaji": "okane",
+            "kanji": "\u304A\u91D1"
+          },
+          "translation": "money",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3075\u306D",
+            "romaji": "fune",
+            "kanji": "\u8239"
+          },
+          "translation": "ship",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306F\u306A",
+            "romaji": "hana",
+            "kanji": "\u82B1"
+          },
+          "translation": "flower",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304B\u3076\u304D",
+            "romaji": "kabuki",
+            "kanji": "\u6B4C\u821E\u4F0E"
+          },
+          "translation": "kabuki (theater)",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u305F\u3070\u3053",
+            "romaji": "tabako",
+            "kanji": "\u30BF\u30D0\u30B3"
+          },
+          "translation": "cigarette",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3042\u3076\u306A\u3044",
+            "romaji": "abunai",
+            "kanji": "\u5371\u306A\u3044"
+          },
+          "translation": "dangerous",
+          "type": "i-adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3084\u307E",
+            "romaji": "yama",
+            "kanji": "\u5C71"
+          },
+          "translation": "mountain",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3086\u304D",
+            "romaji": "yuki",
+            "kanji": "\u96EA"
+          },
+          "translation": "snow",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3080\u3059\u3081",
+            "romaji": "musume",
+            "kanji": "\u5A18"
+          },
+          "translation": "daughter",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306E\u307F\u3082\u306E",
+            "romaji": "nomimono",
+            "kanji": "\u98F2\u307F\u7269"
+          },
+          "translation": "beverage",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3072\u308B",
+            "romaji": "hiru",
+            "kanji": "\u663C"
+          },
+          "translation": "daytime / noon",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306F\u308C",
+            "romaji": "hare",
+            "kanji": "\u6674\u308C"
+          },
+          "translation": "sunny weather",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3067\u3093\u308F",
+            "romaji": "denwa",
+            "kanji": "\u96FB\u8A71"
+          },
+          "translation": "phone",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3072\u3060\u308A",
+            "romaji": "hidari",
+            "kanji": "\u5DE6"
+          },
+          "translation": "left",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3068\u3051\u3044",
+            "romaji": "tokei",
+            "kanji": "\u6642\u8A08"
+          },
+          "translation": "clock / watch",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3048\u3044\u304C",
+            "romaji": "eiga",
+            "kanji": "\u6620\u753B"
+          },
+          "translation": "movie",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3068\u304A\u3044",
+            "romaji": "tooi",
+            "kanji": "\u9060\u3044"
+          },
+          "translation": "far",
+          "type": "i-adjective"
+        }
+      ]
+    },
+    {
+      "subsection": "Lesson_05",
+      "vocabularyList": [
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u304A\u3044",
+            "romaji": "ooi",
+            "kanji": "\u591A\u3044"
+          },
+          "translation": "many",
+          "type": "i-adjective"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u3063\u3077",
+            "romaji": "kippu",
+            "kanji": "\u5207\u7B26"
+          },
+          "translation": "ticket",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u3063\u3066",
+            "romaji": "kitte",
+            "kanji": "\u5207\u624B"
+          },
+          "translation": "stamp",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3056\u3063\u3057",
+            "romaji": "zasshi",
+            "kanji": "\u96D1\u8A8C"
+          },
+          "translation": "magazine",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u307F\u3063\u3064",
+            "romaji": "mittsu",
+            "kanji": "\u4E09\u3064"
+          },
+          "translation": "3 things",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u306B\u3063\u304D",
+            "romaji": "nikki",
+            "kanji": "\u65E5\u8A18"
+          },
+          "translation": "diary",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304C\u3063\u3053\u3046",
+            "romaji": "gakkou",
+            "kanji": "\u5B66\u6821"
+          },
+          "translation": "school",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3058\u3057\u3087",
+            "romaji": "jisho",
+            "kanji": "\u8F9E\u66F8"
+          },
+          "translation": "dictionary",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304A\u3061\u3083",
+            "romaji": "ocha",
+            "kanji": "\u304A\u8336"
+          },
+          "translation": "tea",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3072\u3083\u304F",
+            "romaji": "hyaku",
+            "kanji": "\u767E"
+          },
+          "translation": "100",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3057\u3083\u3057\u3093",
+            "romaji": "shashin",
+            "kanji": "\u5199\u771F"
+          },
+          "translation": "photo",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3057\u3085\u304F\u3060\u3044",
+            "romaji": "shukudai",
+            "kanji": "\u5BBF\u984C"
+          },
+          "translation": "homework",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304D\u3087\u3046",
+            "romaji": "kyou",
+            "kanji": "\u4ECA\u65E5"
+          },
+          "translation": "today",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3079\u3093\u304D\u3087\u3046",
+            "romaji": "benkyou",
+            "kanji": "\u52C9\u5F37"
+          },
+          "translation": "study",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u304E\u3085\u3046\u306B\u3085\u3046",
+            "romaji": "gyuunyuu",
+            "kanji": "\u725B\u4E73"
+          },
+          "translation": "milk",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3061\u3087\u3063\u3068",
+            "romaji": "chotto",
+            "kanji": "\u3061\u3087\u3063\u3068"
+          },
+          "translation": "a little",
+          "type": "adverb"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3058\u3085\u3063\u3077\u3093",
+            "romaji": "juppun",
+            "kanji": "\u5341\u5206"
+          },
+          "translation": "10 minutes",
+          "type": "noun"
+        },
+        {
+          "japaneseWord": {
+            "kana": "\u3057\u3085\u3063\u3061\u3087\u3046",
+            "romaji": "shucchou",
+            "kanji": "\u51FA\u5F35"
+          },
+          "translation": "business trip",
+          "type": "noun"
+        }
+      ]
+    }
+  ]
+}
